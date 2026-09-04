@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Web Design Agency Australia | Built to Rank & Convert | Nifty",
+    "seoDescription": "Australian web design agency building sites for visibility, conversion & leads. Every site includes a free SEO build worth ~$2,000. Get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-04T03:38:50.821Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-04T03:38:50.821Z",
+    "createdBy": "derek"
+  }
+]
