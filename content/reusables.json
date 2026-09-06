@@ -1,0 +1,13 @@
+[
+  {
+    "id": "rz-1",
+    "name": "Custom section",
+    "kind": "html",
+    "html": "<div style=\"max-width:900px;margin:0 auto;padding:48px 20px;text-align:center\">\n  <h2>New reusable section</h2>\n  <p>Edit this HTML, then insert it on any page.</p>\n</div>",
+    "css": "",
+    "createdAt": "2026-09-06T22:37:47.485Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-06T22:37:47.485Z",
+    "updatedBy": "derek"
+  }
+]
