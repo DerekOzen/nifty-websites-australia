@@ -9,5 +9,84 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-06T22:37:47.485Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "rz-2",
+    "name": "Pricing table",
+    "kind": "pricing",
+    "data": {
+      "eyebrow": "PRICING",
+      "title": "Great websites at",
+      "titleAccent": "genuinely great rates.",
+      "subtitle": "Transparent starting prices with the SEO build included on every plan. Tell us your project and we’ll send a fixed, no-surprises quote.",
+      "footnote": "Starting prices for guidance — final figures confirmed in your free quote.",
+      "bg": "#0a1020",
+      "accent": "#FFC80A",
+      "plans": [
+        {
+          "name": "Starter",
+          "image": "",
+          "fromLabel": "From",
+          "price": "$X",
+          "priceSuffix": "one-off",
+          "badge": "",
+          "highlight": false,
+          "pill": "Free $2,000 SEO build",
+          "features": [
+            "Up to 5 pages",
+            "Mobile-first design",
+            "Contact & enquiry forms",
+            "Google-ready SEO setup",
+            "Launch in ~2 weeks"
+          ],
+          "buttonText": "Start here",
+          "buttonLink": "/contact/"
+        },
+        {
+          "name": "Professional",
+          "image": "",
+          "fromLabel": "From",
+          "price": "$X",
+          "priceSuffix": "one-off",
+          "badge": "Most popular",
+          "highlight": true,
+          "pill": "Free $2,000 SEO build",
+          "features": [
+            "Up to 12 pages",
+            "Custom conversion design",
+            "Copywriting assistance",
+            "Advanced on-page SEO",
+            "Analytics & tracking",
+            "Priority support"
+          ],
+          "buttonText": "Get a quote",
+          "buttonLink": "/contact/"
+        },
+        {
+          "name": "eCommerce & Custom",
+          "image": "",
+          "fromLabel": "From",
+          "price": "$X,X",
+          "priceSuffix": "tailored",
+          "badge": "",
+          "highlight": false,
+          "pill": "Free $2,000 SEO build",
+          "features": [
+            "WooCommerce or Shopify",
+            "Product & payment setup",
+            "Custom functionality",
+            "eCommerce SEO",
+            "Care plan options",
+            "Scales with your store"
+          ],
+          "buttonText": "Talk to us",
+          "buttonLink": "/contact/"
+        }
+      ]
+    },
+    "createdAt": "2026-09-06T22:37:59.969Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-06T22:37:59.969Z",
+    "updatedBy": "derek"
   }
 ]
