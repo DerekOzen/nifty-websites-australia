@@ -15,5 +15,21 @@
     "createdAt": "2026-09-04T04:18:09.584Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Web Design Agency Australia | Built to Rank & Convert | Nifty",
+    "seoDescription": "Australian web design agency building websites for visibility, conversion and leads. Every build includes $2,000 of SEO work. Australia-wide. Get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-09-09T01:02:42.791Z",
+    "updatedBy": "joshua",
+    "createdAt": "2026-09-09T01:02:42.791Z",
+    "createdBy": "joshua"
   }
 ]
