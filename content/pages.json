@@ -48,5 +48,21 @@
     "createdAt": "2026-09-10T22:33:58.176Z",
     "createdBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-4",
+    "path": "/web-design-and-seo",
+    "type": "page",
+    "title": "Web Design and SEO Australia",
+    "seoTitle": "Web Design and SEO Australia | Built to Rank | Nifty",
+    "seoDescription": "Websites designed and optimised together, so you rank from launch. See what the included SEO build covers and get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-10T22:39:32.820Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-10T22:39:32.820Z",
+    "createdBy": "derek"
   }
 ]
