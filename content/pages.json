@@ -108,10 +108,10 @@
     "seoTitle": "Website Design for Electricians Australia | Nifty Websites",
     "seoDescription": "Websites for electricians built to rank locally and win more work. Mobile-first, quote-ready, with a complete SEO build included. Get a fixed free quote.",
     "layout": "mockup",
-    "headerPartId": null,
+    "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-10T20:43:56.274Z",
+    "status": "published",
+    "updatedAt": "2026-09-10T20:44:08.872Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-10T20:43:56.274Z",
     "createdBy": "derek"
