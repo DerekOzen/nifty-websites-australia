@@ -66,5 +66,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-10T20:04:28.252Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-5",
+    "path": "/website-design-sydney",
+    "type": "location",
+    "title": "Website Design Sydney",
+    "seoTitle": "Website Design Sydney | Local Web Design | Nifty Websites",
+    "seoDescription": "Web design in Sydney built to rank locally and win enquiries. Mobile-first, fast, with a complete SEO build included. Get a fixed free quote from an Australian team.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-10T20:22:21.687Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-10T20:22:21.687Z",
+    "createdBy": "derek"
   }
 ]
