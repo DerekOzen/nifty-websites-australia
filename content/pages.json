@@ -2875,10 +2875,10 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-10T04:53:12.376Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T04:53:12.376Z",
+    "updatedAt": "2026-09-10T08:17:04.315Z",
     "updatedBy": "joshua"
   },
   {
@@ -2891,10 +2891,10 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-10T04:53:12.376Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T04:53:12.376Z",
+    "updatedAt": "2026-09-10T08:17:04.315Z",
     "updatedBy": "joshua"
   },
   {
