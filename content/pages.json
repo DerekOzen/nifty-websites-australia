@@ -31,5 +31,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-10T22:16:25.698Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-3",
+    "path": "/website-desind-seo",
+    "type": "page",
+    "title": "Website Desind & SEO",
+    "seoTitle": "Web Design and SEO Australia | Built to Rank | Nifty",
+    "seoDescription": "Websites designed and optimised together, so you rank from launch. See what the included SEO build covers and get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-10T22:33:58.176Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-10T22:33:58.176Z",
+    "createdBy": "derek"
   }
 ]
