@@ -35,7 +35,7 @@
   },
   {
     "id": "pg-3",
-    "path": "/web-design-sydney",
+    "path": "/website-design-sydney",
     "type": "page",
     "title": "Web Design Sydney",
     "seoTitle": "Website Design Sydney | Local Web Design | Nifty Websites",
@@ -43,10 +43,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-10T19:59:24.910Z",
+    "status": "published",
+    "updatedAt": "2026-09-10T20:00:14.542Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-10T19:59:24.910Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Locations"
   }
 ]
