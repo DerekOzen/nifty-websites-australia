@@ -9,11 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-09-10T21:14:01.637Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-10T22:12:48.071Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-10T21:13:26.503Z",
     "createdBy": "derek",
-    "category": "Industries"
+    "category": "Industries",
+    "isHome": false
   }
 ]
