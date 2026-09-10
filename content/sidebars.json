@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sb-1",
+    "name": "Services Sidebar",
+    "forType": "service",
+    "accent": "#FFC80A",
+    "items": [
+      {
+        "type": "heading",
+        "text": "Talk to our team",
+        "sub": "We reply within one business day."
+      },
+      {
+        "type": "contact",
+        "text": "1300 000 000",
+        "sub": "Mon–Fri, 9am–5pm"
+      },
+      {
+        "type": "links",
+        "links": [
+          {
+            "label": "Our services",
+            "href": "/services/",
+            "icon": "→"
+          },
+          {
+            "label": "See our work",
+            "href": "/portfolio/",
+            "icon": "→"
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "ctaLabel": "Get a free quote",
+        "ctaHref": "/contact/"
+      }
+    ],
+    "createdAt": "2026-09-10T22:34:23.168Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-10T22:34:23.168Z",
+    "updatedBy": "derek"
+  }
+]
