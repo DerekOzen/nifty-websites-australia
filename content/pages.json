@@ -26,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-10T19:06:28.696Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-10T19:19:06.009Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-10T19:06:28.696Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-3",
@@ -42,10 +43,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "draft",
-    "updatedAt": "2026-09-10T19:10:34.273Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-10T19:19:06.009Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-10T19:10:34.273Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   }
 ]
