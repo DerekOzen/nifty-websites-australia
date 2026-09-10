@@ -82,5 +82,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-10T20:22:21.687Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-6",
+    "path": "/web-design-fo-relectricians",
+    "type": "industry",
+    "title": "Web Design fo rElectricians",
+    "seoTitle": "Website Design for Electricians Australia | Nifty Websites",
+    "seoDescription": "Websites for electricians built to rank locally and win more work. Mobile-first, quote-ready, with a complete SEO build included. Get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": null,
+    "footerPartId": null,
+    "status": "draft",
+    "updatedAt": "2026-09-10T20:24:24.480Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-10T20:24:24.480Z",
+    "createdBy": "derek"
   }
 ]
