@@ -15,5 +15,21 @@
     "createdAt": "2026-09-10T22:14:44.391Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/pricing",
+    "type": "page",
+    "title": "Pricing",
+    "seoTitle": "Website Design Cost & Pricing Australia | Nifty Websites",
+    "seoDescription": "What does a website cost in Australia? See Nifty Websites pricing guidance. Every website includes a complete SEO build and a fixed, itemised quote before work begins.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-10T22:16:25.698Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-10T22:16:25.698Z",
+    "createdBy": "derek"
   }
 ]
