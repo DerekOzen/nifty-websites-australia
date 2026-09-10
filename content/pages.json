@@ -2864,5 +2864,37 @@
     "createdBy": "joshua",
     "updatedAt": "2026-09-10T04:06:49.563Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-180",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Privacy Policy | Nifty Websites Australia",
+    "seoTitle": "Privacy Policy | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia collects, uses, stores and discloses personal information, and how to access, correct or complain about it.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-09-10T04:53:12.376Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-10T04:53:12.376Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-181",
+    "path": "/terms-of-services",
+    "type": "page",
+    "title": "Terms of Service | Nifty Websites Australia",
+    "seoTitle": "Terms of Service | Nifty Websites Australia",
+    "seoDescription": "The terms that apply to using this website and to engaging Nifty Websites Australia for design, development, hosting and care work.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-09-10T04:53:12.376Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-10T04:53:12.376Z",
+    "updatedBy": "joshua"
   }
 ]
