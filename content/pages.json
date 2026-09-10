@@ -43,12 +43,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-09-10T20:00:14.542Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-10T20:05:22.761Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-10T19:59:24.910Z",
     "createdBy": "derek",
-    "category": "Locations"
+    "category": "Locations",
+    "isHome": false
   },
   {
     "id": "pg-4",
