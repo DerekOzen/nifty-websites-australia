@@ -2924,10 +2924,11 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-10T08:16:04.527Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-10T08:16:04.527Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-10T08:16:44.694Z",
+    "updatedBy": "joshua",
+    "isHome": false
   }
 ]
