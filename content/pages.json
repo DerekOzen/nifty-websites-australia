@@ -93,10 +93,11 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": null,
-    "status": "published",
-    "updatedAt": "2026-09-10T20:24:34.331Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-10T20:42:45.213Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-10T20:24:24.480Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   }
 ]
