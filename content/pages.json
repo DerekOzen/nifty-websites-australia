@@ -635,7 +635,7 @@
   },
   {
     "id": "pg-40",
-    "path": "/white-label-web-design-and-development",
+    "path": "/white-label",
     "type": "page",
     "title": "White Label Web Design & Development for Agencies | Nifty Websites",
     "seoTitle": "White Label Web Design & Development for Agencies | Nifty Websites",
@@ -643,10 +643,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:22:59.577Z",
     "updatedBy": "derek"
   },
   {
