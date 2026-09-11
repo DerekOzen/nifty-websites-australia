@@ -488,7 +488,7 @@
   },
   {
     "id": "pg-31",
-    "path": "/website-design-cost-and-pricing",
+    "path": "/pricing",
     "type": "page",
     "title": "Website Design Cost & Pricing Australia | Nifty Websites",
     "seoTitle": "Website Design Cost & Pricing Australia | Nifty Websites",
@@ -496,10 +496,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:18:38.369Z",
     "updatedBy": "derek"
   },
   {
