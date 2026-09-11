@@ -1729,10 +1729,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T10:03:50.266Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T10:03:50.266Z",
+    "updatedAt": "2026-09-11T19:59:24.380Z",
     "updatedBy": "derek"
   },
   {
