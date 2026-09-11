@@ -296,7 +296,7 @@
   },
   {
     "id": "pg-19",
-    "path": "/outsource-web-development",
+    "path": "/white-label/web-development",
     "type": "page",
     "title": "Outsource Web Development for Agencies | Nifty Websites",
     "seoTitle": "Outsource Web Development for Agencies | Nifty Websites",
@@ -304,10 +304,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:30:28.630Z",
+    "updatedAt": "2026-09-11T05:43:25.943Z",
     "updatedBy": "derek"
   },
   {
