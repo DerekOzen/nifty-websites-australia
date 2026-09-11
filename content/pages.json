@@ -651,7 +651,7 @@
   },
   {
     "id": "pg-41",
-    "path": "/woocommerce-shopify-developers",
+    "path": "/web-development/woocommerce-shopify",
     "type": "page",
     "title": "WooCommerce & Shopify Developers Australia | Nifty Websites",
     "seoTitle": "WooCommerce & Shopify Developers Australia | Nifty Websites",
@@ -659,11 +659,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-11T20:23:44.454Z",
+    "updatedBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-42",
