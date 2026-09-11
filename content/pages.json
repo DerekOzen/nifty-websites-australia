@@ -189,11 +189,11 @@
     "seoDescription": "eCommerce websites built to sell on WooCommerce and Shopify. Product, payment and shipping setup plus eCommerce SEO. Get a fixed free quote.",
     "layout": "mockup",
     "headerPartId": "header-1",
-    "footerPartId": null,
-    "status": "draft",
+    "footerPartId": "footer-1",
+    "status": "published",
     "createdAt": "2026-09-11T05:26:09.279Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:26:09.279Z",
+    "updatedAt": "2026-09-11T05:28:47.278Z",
     "updatedBy": "derek"
   },
   {
