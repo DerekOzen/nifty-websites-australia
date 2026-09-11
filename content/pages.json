@@ -776,7 +776,7 @@
   },
   {
     "id": "pg-49",
-    "path": "/cafe-website-design",
+    "path": "/website-for-cafes",
     "type": "industry",
     "title": "Website Design for Cafes Australia | Nifty Websites",
     "seoTitle": "Website Design for Cafes Australia | Nifty Websites",
@@ -784,10 +784,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:49:10.597Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:49:10.597Z",
+    "updatedAt": "2026-09-11T08:18:08.513Z",
     "updatedBy": "derek"
   },
   {
