@@ -1189,5 +1189,53 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-11T05:49:57.772Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-75",
+    "path": "/privacy-policy",
+    "type": "page",
+    "title": "Privacy Policy | Nifty Websites Australia",
+    "seoTitle": "Privacy Policy | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia collects, uses and protects your personal information, in line with the Australian Privacy Principles.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-09-11T05:56:47.703Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-11T05:56:47.703Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-76",
+    "path": "/terms-and-conditions",
+    "type": "page",
+    "title": "Terms & Conditions | Nifty Websites Australia",
+    "seoTitle": "Terms & Conditions | Nifty Websites Australia",
+    "seoDescription": "The terms that apply to using the Nifty Websites Australia website and engaging our web design, development and SEO services.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-09-11T05:56:47.703Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-11T05:56:47.703Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-77",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You | Nifty Websites Australia",
+    "seoTitle": "Thank You | Nifty Websites Australia",
+    "seoDescription": "Thanks for your enquiry. Nifty Websites Australia will reply within one business day with fixed pricing and honest advice.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-09-11T05:56:47.703Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-11T05:56:47.703Z",
+    "updatedBy": "derek"
   }
 ]
