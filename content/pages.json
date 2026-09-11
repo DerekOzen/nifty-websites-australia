@@ -587,7 +587,7 @@
   },
   {
     "id": "pg-37",
-    "path": "/white-label-partner-pricing",
+    "path": "/white-label/pricing",
     "type": "page",
     "title": "Partner Pricing | White Label Web Design | Nifty Websites",
     "seoTitle": "Partner Pricing | White Label Web Design | Nifty Websites",
@@ -595,10 +595,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:22:15.047Z",
     "updatedBy": "derek"
   },
   {
