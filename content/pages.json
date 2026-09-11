@@ -140,11 +140,11 @@
     "seoDescription": "Turn more of your existing traffic into enquiries. Data-led conversion rate optimisation for Australian business websites. Get a free quote.",
     "layout": "mockup",
     "headerPartId": "header-1",
-    "footerPartId": null,
-    "status": "draft",
+    "footerPartId": "footer-1",
+    "status": "published",
     "createdAt": "2026-09-11T05:26:09.279Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:26:09.279Z",
+    "updatedAt": "2026-09-11T05:26:38.445Z",
     "updatedBy": "derek"
   },
   {
