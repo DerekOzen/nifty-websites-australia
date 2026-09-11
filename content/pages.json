@@ -198,18 +198,19 @@
   },
   {
     "id": "pg-13",
-    "path": "/full-stack-web-development",
+    "path": "/full-stack-developer",
     "type": "page",
     "title": "Full Stack Web Development Australia | Nifty Websites",
     "seoTitle": "Full Stack Web Development Australia | Nifty Websites",
     "seoDescription": "Full-stack web development for custom sites and web apps. Front end, back end, integrations and APIs, built to scale. Get a fixed free quote.",
     "layout": "mockup",
     "headerPartId": "header-1",
-    "footerPartId": null,
-    "status": "draft",
+    "footerPartId": "footer-1",
+    "status": "published",
     "createdAt": "2026-09-11T05:26:09.279Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:26:09.279Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-11T05:29:43.471Z",
+    "updatedBy": "derek",
+    "category": "Services"
   }
 ]
