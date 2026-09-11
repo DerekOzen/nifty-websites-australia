@@ -680,7 +680,7 @@
   },
   {
     "id": "pg-43",
-    "path": "/architect-website-design",
+    "path": "/website-for-architects",
     "type": "industry",
     "title": "Website Design for Architects Australia | Nifty Websites",
     "seoTitle": "Website Design for Architects Australia | Nifty Websites",
@@ -688,10 +688,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:49:10.597Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:49:10.597Z",
+    "updatedAt": "2026-09-11T08:15:18.819Z",
     "updatedBy": "derek"
   },
   {
