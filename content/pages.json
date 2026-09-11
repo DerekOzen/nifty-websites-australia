@@ -456,7 +456,7 @@
   },
   {
     "id": "pg-29",
-    "path": "/web-development-australia",
+    "path": "/web-development",
     "type": "page",
     "title": "Web Development Australia | WordPress, WooCommerce, Full Stack",
     "seoTitle": "Web Development Australia | WordPress, WooCommerce, Full Stack",
@@ -464,10 +464,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:18:01.717Z",
     "updatedBy": "derek"
   },
   {
