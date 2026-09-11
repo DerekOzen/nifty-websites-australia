@@ -880,10 +880,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:49:57.772Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:49:57.772Z",
+    "updatedAt": "2026-09-11T08:22:31.165Z",
     "updatedBy": "derek"
   },
   {
