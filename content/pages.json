@@ -376,7 +376,7 @@
   },
   {
     "id": "pg-24",
-    "path": "/seo-ready-websites",
+    "path": "/seo-ready-website",
     "type": "page",
     "title": "SEO-Ready Websites Australia | Nifty Websites Australia",
     "seoTitle": "SEO-Ready Websites Australia | Nifty Websites Australia",
@@ -384,10 +384,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:16:47.759Z",
     "updatedBy": "derek"
   },
   {
