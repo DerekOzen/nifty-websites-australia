@@ -84,7 +84,7 @@
   },
   {
     "id": "pg-6",
-    "path": "/become-a-partner",
+    "path": "/white-label/become-a-partner",
     "type": "page",
     "title": "Become a Partner | White Label Web Design | Nifty Websites",
     "seoTitle": "Become a Partner | White Label Web Design | Nifty Websites",
@@ -92,11 +92,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:18:09.533Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:18:09.533Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-11T05:20:27.969Z",
+    "updatedBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-7",
