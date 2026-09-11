@@ -344,7 +344,7 @@
   },
   {
     "id": "pg-22",
-    "path": "/reseller-program",
+    "path": "/website-design-reseller-service",
     "type": "page",
     "title": "Website Design Reseller Program | Nifty Websites Australia",
     "seoTitle": "Website Design Reseller Program | Nifty Websites Australia",
@@ -352,10 +352,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T05:47:18.450Z",
     "updatedBy": "derek"
   },
   {
