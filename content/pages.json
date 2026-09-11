@@ -1209,7 +1209,7 @@
   },
   {
     "id": "pg-76",
-    "path": "/terms-and-conditions",
+    "path": "/terms-of-services",
     "type": "page",
     "title": "Terms & Conditions | Nifty Websites Australia",
     "seoTitle": "Terms & Conditions | Nifty Websites Australia",
@@ -1217,10 +1217,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:56:47.703Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:56:47.703Z",
+    "updatedAt": "2026-09-11T20:14:47.723Z",
     "updatedBy": "derek"
   },
   {
