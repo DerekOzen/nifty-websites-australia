@@ -149,18 +149,18 @@
   },
   {
     "id": "pg-10",
-    "path": "/custom-website-design",
+    "path": "/web-design/custom",
     "type": "page",
     "title": "Custom Websites Australia | Nifty Websites Australia",
     "seoTitle": "Custom Websites Australia | Nifty Websites Australia",
     "seoDescription": "Custom website design built around your business, with bespoke features and a complete SEO build included. Get a fixed, itemised free quote.",
     "layout": "mockup",
     "headerPartId": "header-1",
-    "footerPartId": null,
-    "status": "draft",
+    "footerPartId": "footer-1",
+    "status": "published",
     "createdAt": "2026-09-11T05:26:09.279Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:26:09.279Z",
+    "updatedAt": "2026-09-11T05:27:12.120Z",
     "updatedBy": "derek"
   },
   {
