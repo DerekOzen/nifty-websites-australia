@@ -619,7 +619,7 @@
   },
   {
     "id": "pg-39",
-    "path": "/white-label-web-design",
+    "path": "/white-label/web-design",
     "type": "page",
     "title": "White Label Web Design for Agencies | Nifty Websites Australia",
     "seoTitle": "White Label Web Design for Agencies | Nifty Websites Australia",
@@ -627,10 +627,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:22:45.616Z",
     "updatedBy": "derek"
   },
   {
