@@ -440,7 +440,7 @@
   },
   {
     "id": "pg-28",
-    "path": "/web-design-australia",
+    "path": "/web-design",
     "type": "page",
     "title": "Web Design Australia | Website Design Services | Nifty Websites",
     "seoTitle": "Web Design Australia | Website Design Services | Nifty Websites",
@@ -448,10 +448,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:17:48.711Z",
     "updatedBy": "derek"
   },
   {
