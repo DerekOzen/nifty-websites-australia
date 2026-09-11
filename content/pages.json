@@ -1368,7 +1368,7 @@
   },
   {
     "id": "pg-86",
-    "path": "/it-services-website-design",
+    "path": "/website-for-it-service-providers",
     "type": "industry",
     "title": "Website Design for IT Service Providers Australia | Nifty Websites",
     "seoTitle": "Website Design for IT Service Providers Australia | Nifty Websites",
@@ -1376,10 +1376,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T09:43:55.718Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T09:43:55.718Z",
+    "updatedAt": "2026-09-11T19:42:06.412Z",
     "updatedBy": "derek"
   },
   {
