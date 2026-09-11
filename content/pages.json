@@ -824,7 +824,7 @@
   },
   {
     "id": "pg-52",
-    "path": "/painter-website-design",
+    "path": "/website-for-painters",
     "type": "industry",
     "title": "Website Design for Painters Australia | Nifty Websites",
     "seoTitle": "Website Design for Painters Australia | Nifty Websites",
@@ -832,10 +832,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:49:10.597Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:49:10.597Z",
+    "updatedAt": "2026-09-11T08:19:25.737Z",
     "updatedBy": "derek"
   },
   {
