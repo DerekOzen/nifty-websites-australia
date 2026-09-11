@@ -808,7 +808,7 @@
   },
   {
     "id": "pg-51",
-    "path": "/ndis-website-design",
+    "path": "/website-for-ndis-providers",
     "type": "industry",
     "title": "Website Design for NDIS Providers Australia | Nifty Websites",
     "seoTitle": "Website Design for NDIS Providers Australia | Nifty Websites",
@@ -816,10 +816,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:49:10.597Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:49:10.597Z",
+    "updatedAt": "2026-09-11T08:19:09.087Z",
     "updatedBy": "derek"
   },
   {
