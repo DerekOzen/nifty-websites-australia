@@ -280,7 +280,7 @@
   },
   {
     "id": "pg-18",
-    "path": "/our-process",
+    "path": "/process",
     "type": "page",
     "title": "Our Process | How We Build Websites | Nifty Websites",
     "seoTitle": "Our Process | How We Build Websites | Nifty Websites",
@@ -288,10 +288,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:30:28.630Z",
+    "updatedAt": "2026-09-11T05:42:52.677Z",
     "updatedBy": "derek"
   },
   {
