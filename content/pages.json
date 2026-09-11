@@ -1432,7 +1432,7 @@
   },
   {
     "id": "pg-90",
-    "path": "/mining-company-website-design",
+    "path": "/website-for-mining-companies",
     "type": "industry",
     "title": "Website Design for Mining Companies Australia | Nifty Websites",
     "seoTitle": "Website Design for Mining Companies Australia | Nifty Websites",
@@ -1440,10 +1440,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T09:43:55.718Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T09:43:55.718Z",
+    "updatedAt": "2026-09-11T19:47:52.278Z",
     "updatedBy": "derek"
   },
   {
