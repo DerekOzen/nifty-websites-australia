@@ -2241,10 +2241,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T10:11:25.167Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T10:11:25.167Z",
+    "updatedAt": "2026-09-11T20:13:11.586Z",
     "updatedBy": "derek"
   },
   {
