@@ -1236,10 +1236,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:56:47.703Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:56:47.703Z",
+    "updatedAt": "2026-09-11T20:24:05.828Z",
     "updatedBy": "derek"
   },
   {
