@@ -1544,7 +1544,7 @@
   },
   {
     "id": "pg-97",
-    "path": "/tutor-website-design",
+    "path": "/website-for-teachers",
     "type": "industry",
     "title": "Website Design for Teachers & Tutors Australia | Nifty Websites",
     "seoTitle": "Website Design for Teachers & Tutors Australia | Nifty Websites",
@@ -1552,10 +1552,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T09:43:55.718Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T09:43:55.718Z",
+    "updatedAt": "2026-09-11T19:50:14.153Z",
     "updatedBy": "derek"
   },
   {
