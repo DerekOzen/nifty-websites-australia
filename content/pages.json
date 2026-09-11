@@ -603,7 +603,7 @@
   },
   {
     "id": "pg-38",
-    "path": "/white-label-seo",
+    "path": "/white-label/seo",
     "type": "page",
     "title": "White Label SEO for Agencies | Nifty Websites Australia",
     "seoTitle": "White Label SEO for Agencies | Nifty Websites Australia",
@@ -611,10 +611,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:31:40.604Z",
+    "updatedAt": "2026-09-11T20:22:36.209Z",
     "updatedBy": "derek"
   },
   {
