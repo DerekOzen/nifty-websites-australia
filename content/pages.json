@@ -1336,7 +1336,7 @@
   },
   {
     "id": "pg-84",
-    "path": "/handyman-website-design",
+    "path": "/website-for-handyman",
     "type": "industry",
     "title": "Website Design for Handyman Services Australia | Nifty Websites",
     "seoTitle": "Website Design for Handyman Services Australia | Nifty Websites",
@@ -1344,10 +1344,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T09:43:55.718Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T09:43:55.718Z",
+    "updatedAt": "2026-09-11T19:41:26.541Z",
     "updatedBy": "derek"
   },
   {
