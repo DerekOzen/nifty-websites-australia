@@ -1905,10 +1905,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-11T10:10:51.677Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T10:12:26.396Z",
+    "updatedAt": "2026-09-11T20:03:07.119Z",
     "updatedBy": "derek"
   },
   {
