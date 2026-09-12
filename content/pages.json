@@ -2304,10 +2304,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-12T01:04:03.095Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-12T01:04:03.095Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-12T01:07:50.258Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
