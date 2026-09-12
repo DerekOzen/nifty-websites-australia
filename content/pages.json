@@ -2216,7 +2216,7 @@
   },
   {
     "id": "pg-144",
-    "path": "/blog-do-web-developers-use-google-web-designer",
+    "path": "/do-web-developers-use-google-web-designers",
     "type": "post",
     "title": "Do web developers use Google Web Designer? | Nifty Websites",
     "seoTitle": "Do web developers use Google Web Designer? | Nifty Websites",
@@ -2224,10 +2224,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-12T01:04:03.095Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-12T01:04:03.095Z",
+    "updatedAt": "2026-09-12T01:06:37.097Z",
     "updatedBy": "derek"
   },
   {
