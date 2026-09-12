@@ -2281,7 +2281,7 @@
   },
   {
     "id": "pg-148",
-    "path": "/nt-business-grant-website-services",
+    "path": "/nt-business-grant-for-website-services",
     "type": "post",
     "title": "Business Grant for Website Services Australia | Nifty Websites",
     "seoTitle": "Business Grant for Website Services Australia | Nifty Websites",
@@ -2289,10 +2289,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-12T01:04:03.095Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-12T01:04:03.095Z",
+    "updatedAt": "2026-09-12T01:12:14.497Z",
     "updatedBy": "derek"
   },
   {
