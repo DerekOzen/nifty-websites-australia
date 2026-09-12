@@ -2294,22 +2294,5 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-12T01:12:14.497Z",
     "updatedBy": "derek"
-  },
-  {
-    "id": "pg-149",
-    "path": "/terms-of-services-2",
-    "type": "page",
-    "title": "Terms & Conditions | Nifty Websites Australia",
-    "seoTitle": "Terms & Conditions | Nifty Websites Australia",
-    "seoDescription": "The terms that apply to using the Nifty Websites Australia website and engaging our web design, development and SEO services.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "createdAt": "2026-09-12T01:04:03.095Z",
-    "createdBy": "derek",
-    "updatedAt": "2026-09-12T01:07:50.258Z",
-    "updatedBy": "derek",
-    "isHome": false
   }
 ]
