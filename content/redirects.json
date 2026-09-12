@@ -1,0 +1,98 @@
+[
+  {
+    "from": "/website-packages",
+    "to": "/pricing",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/website-packages-for-small-business",
+    "to": "/pricing",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/personal-web-design",
+    "to": "/pricing",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/enterprise-website-design",
+    "to": "/pricing",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/custom-websites",
+    "to": "/web-design",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/website-development",
+    "to": "/web-development",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/website-design-for-tradesmen",
+    "to": "/website-for-tradies",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/what-makes-a-tradesmens-website-stand-out",
+    "to": "/website-for-tradies",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/dental-website-development-australia",
+    "to": "/website-for-dentists",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/ndis-website-design",
+    "to": "/website-for-ndis-providers",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/website-maintenance-packages",
+    "to": "/hosting/care-plans",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/website-support-sydney",
+    "to": "/hosting/care-plans",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/woocommerce-website-designer",
+    "to": "/web-development/woocommerce-shopify",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/website-for-industrial-companies",
+    "to": "/website-for-manufacturers",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/white-label-website-services",
+    "to": "/white-label",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  },
+  {
+    "from": "/blogs",
+    "to": "/learn",
+    "code": 301,
+    "at": "2026-09-12T01:09:53.642Z"
+  }
+]
