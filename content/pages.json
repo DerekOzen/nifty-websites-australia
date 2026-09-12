@@ -2264,7 +2264,7 @@
   },
   {
     "id": "pg-147",
-    "path": "/learn-hub",
+    "path": "/learn",
     "type": "post",
     "title": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
     "seoTitle": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
@@ -2272,11 +2272,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-12T01:04:03.095Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-12T01:04:03.095Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-12T01:08:40.056Z",
+    "updatedBy": "derek",
+    "category": "Other"
   },
   {
     "id": "pg-148",
