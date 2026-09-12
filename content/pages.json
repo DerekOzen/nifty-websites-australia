@@ -52,7 +52,7 @@
   {
     "id": "pg-7",
     "path": "/business-web-hosting",
-    "type": "page",
+    "type": "service",
     "title": "Business Web Hosting Australia | Nifty Websites Australia",
     "seoTitle": "Business Web Hosting Australia | Nifty Websites Australia",
     "seoDescription": "Business web hosting that keeps your site fast, secure and online, with Australian support and clear plans. Get a fixed free quote.",
@@ -62,7 +62,7 @@
     "status": "published",
     "createdAt": "2026-09-11T05:18:09.533Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:22:22.257Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
@@ -84,7 +84,7 @@
   {
     "id": "pg-9",
     "path": "/conversion-rate-optimisation",
-    "type": "page",
+    "type": "service",
     "title": "Conversion Rate Optimisation Australia | Nifty Websites",
     "seoTitle": "Conversion Rate Optimisation Australia | Nifty Websites",
     "seoDescription": "Turn more of your existing traffic into enquiries. Data-led conversion rate optimisation for Australian business websites. Get a free quote.",
@@ -94,13 +94,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:26:09.279Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:26:38.445Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-10",
     "path": "/web-design/custom",
-    "type": "page",
+    "type": "service",
     "title": "Custom Websites Australia | Nifty Websites Australia",
     "seoTitle": "Custom Websites Australia | Nifty Websites Australia",
     "seoDescription": "Custom website design built around your business, with bespoke features and a complete SEO build included. Get a fixed, itemised free quote.",
@@ -110,7 +110,7 @@
     "status": "published",
     "createdAt": "2026-09-11T05:26:09.279Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:27:12.120Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
@@ -133,7 +133,7 @@
   {
     "id": "pg-12",
     "path": "/ecommerce-website-design",
-    "type": "page",
+    "type": "service",
     "title": "eCommerce Website Design Australia | WooCommerce & Shopify",
     "seoTitle": "eCommerce Website Design Australia | WooCommerce & Shopify",
     "seoDescription": "eCommerce websites built to sell on WooCommerce and Shopify. Product, payment and shipping setup plus eCommerce SEO. Get a fixed free quote.",
@@ -143,7 +143,7 @@
     "status": "published",
     "createdAt": "2026-09-11T05:26:09.279Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:28:47.278Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
@@ -182,7 +182,7 @@
   {
     "id": "pg-15",
     "path": "/web-design/landing-pages",
-    "type": "page",
+    "type": "service",
     "title": "Landing Page Design Australia | Nifty Websites Australia",
     "seoTitle": "Landing Page Design Australia | Nifty Websites Australia",
     "seoDescription": "High-converting landing page design for paid and campaign traffic, with conversion tracking built in. Get a fixed, itemised free quote.",
@@ -192,13 +192,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:41:05.541Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-16",
     "path": "/lead-generation-websites",
-    "type": "page",
+    "type": "service",
     "title": "Lead Generation Websites Australia | Nifty Websites",
     "seoTitle": "Lead Generation Websites Australia | Nifty Websites",
     "seoDescription": "Websites built to generate leads, not just look good. Conversion-first design, clear CTAs and tracking. Get a fixed free quote.",
@@ -208,7 +208,7 @@
     "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:41:26.560Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
@@ -231,7 +231,7 @@
   {
     "id": "pg-18",
     "path": "/process",
-    "type": "page",
+    "type": "service",
     "title": "Our Process | How We Build Websites | Nifty Websites",
     "seoTitle": "Our Process | How We Build Websites | Nifty Websites",
     "seoDescription": "See how Nifty Websites Australia turns a brief into a website that ranks and converts, step by step. Get a fixed free quote.",
@@ -241,13 +241,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:42:52.677Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-19",
     "path": "/white-label/web-development",
-    "type": "page",
+    "type": "service",
     "title": "Outsource Web Development for Agencies | Nifty Websites",
     "seoTitle": "Outsource Web Development for Agencies | Nifty Websites",
     "seoDescription": "Outsource website development to an Australian team, under your brand. WordPress, WooCommerce and full-stack, reliable and invisible. Become a partner.",
@@ -257,13 +257,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:43:25.943Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-20",
     "path": "/portfolio",
-    "type": "page",
+    "type": "service",
     "title": "Our Work | Web Design Portfolio | Nifty Websites Australia",
     "seoTitle": "Our Work | Web Design Portfolio | Nifty Websites Australia",
     "seoDescription": "See recent websites built by Nifty Websites Australia for businesses across the country. Browse our web design portfolio and start your project.",
@@ -273,13 +273,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:44:20.095Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-21",
     "path": "/professional-web-design",
-    "type": "page",
+    "type": "service",
     "title": "Professional Web Design Australia | Nifty Websites Australia",
     "seoTitle": "Professional Web Design Australia | Nifty Websites Australia",
     "seoDescription": "Professional web design for established businesses. Custom, conversion-focused sites with a complete SEO build included. Get a fixed free quote.",
@@ -289,13 +289,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:46:06.613Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-22",
     "path": "/website-design-reseller-service",
-    "type": "page",
+    "type": "service",
     "title": "Website Design Reseller Program | Nifty Websites Australia",
     "seoTitle": "Website Design Reseller Program | Nifty Websites Australia",
     "seoDescription": "Join the Nifty website design reseller program. Sell web design, development and SEO under your brand at partner pricing. Become a partner.",
@@ -305,13 +305,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T05:47:18.450Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-23",
     "path": "/reviews",
-    "type": "page",
+    "type": "service",
     "title": "Reviews | Nifty Websites Australia",
     "seoTitle": "Reviews | Nifty Websites Australia",
     "seoDescription": "See what Australian businesses and agencies say about working with Nifty Websites Australia. Real, verified client reviews.",
@@ -321,13 +321,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:15:55.212Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-24",
     "path": "/seo-ready-website",
-    "type": "page",
+    "type": "service",
     "title": "SEO-Ready Websites Australia | Nifty Websites Australia",
     "seoTitle": "SEO-Ready Websites Australia | Nifty Websites Australia",
     "seoDescription": "What makes a website SEO-ready, and how Nifty builds one for you. Every site ships search-ready with a complete SEO build. Get a free quote.",
@@ -337,13 +337,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:16:47.759Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-25",
     "path": "/web-design/small-business",
-    "type": "page",
+    "type": "service",
     "title": "Small Business Websites Australia | Nifty Websites Australia",
     "seoTitle": "Small Business Websites Australia | Nifty Websites Australia",
     "seoDescription": "Small business website design built to convert, with a complete SEO build included on every site. Get a fixed, itemised free quote from an Australian team.",
@@ -353,13 +353,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:17:10.065Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-26",
     "path": "/hosting/vps",
-    "type": "page",
+    "type": "service",
     "title": "VPS Hosting Australia | Managed Virtual Servers | Nifty Websites",
     "seoTitle": "VPS Hosting Australia | Managed Virtual Servers | Nifty Websites",
     "seoDescription": "Managed VPS hosting for demanding websites and stores. More power, better performance and Australian support. Get a fixed free quote.",
@@ -369,13 +369,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:17:22.840Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-27",
     "path": "/web-design-and-seo",
-    "type": "page",
+    "type": "service",
     "title": "Web Design and SEO Australia | Built to Rank | Nifty",
     "seoTitle": "Web Design and SEO Australia | Built to Rank | Nifty",
     "seoDescription": "Websites designed and optimised together, so you rank from launch. See what the included SEO build covers and get a fixed free quote.",
@@ -385,7 +385,7 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:19:28.613Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
@@ -408,7 +408,7 @@
   {
     "id": "pg-29",
     "path": "/web-development",
-    "type": "page",
+    "type": "service",
     "title": "Web Development Australia | WordPress, WooCommerce, Full Stack",
     "seoTitle": "Web Development Australia | WordPress, WooCommerce, Full Stack",
     "seoDescription": "Custom web development in Australia. WordPress, WooCommerce, Shopify and full-stack builds, done to spec and built to perform. Get a fixed free quote.",
@@ -418,13 +418,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:18:01.717Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-30",
     "path": "/hosting/care-plans",
-    "type": "page",
+    "type": "service",
     "title": "Website Care Plans Australia | Nifty Websites Australia",
     "seoTitle": "Website Care Plans Australia | Nifty Websites Australia",
     "seoDescription": "Website care plans that keep your site secure, updated, backed up and supported. Monthly, quarterly or yearly, with 2 hours of support every month. Get started.",
@@ -434,13 +434,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:18:14.842Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-31",
     "path": "/pricing",
-    "type": "page",
+    "type": "service",
     "title": "Website Design Cost & Pricing Australia | Nifty Websites",
     "seoTitle": "Website Design Cost & Pricing Australia | Nifty Websites",
     "seoDescription": "What does a website cost in Australia? See Nifty Websites pricing guidance. Every website includes a complete SEO build and a fixed, itemised quote before work begins.",
@@ -450,13 +450,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:59:01.055Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-34",
     "path": "/hosting",
-    "type": "page",
+    "type": "service",
     "title": "Website Hosting & Care Australia | Nifty Websites Australia",
     "seoTitle": "Website Hosting & Care Australia | Nifty Websites Australia",
     "seoDescription": "Fast, secure Australian website hosting and care plans that keep your site online, updated and protected. Get a fixed free quote.",
@@ -466,13 +466,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:21:17.964Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-35",
     "path": "/web-design/redesign",
-    "type": "page",
+    "type": "service",
     "title": "Website Redesign Australia | Nifty Websites Australia",
     "seoTitle": "Website Redesign Australia | Nifty Websites Australia",
     "seoDescription": "Website redesign that modernises your site without losing your rankings. Migration-safe, conversion-focused, with a complete SEO build included. Get a free quote.",
@@ -482,13 +482,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:21:45.719Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-36",
     "path": "/website-security",
-    "type": "page",
+    "type": "service",
     "title": "Website Security Australia | Protect Your Site | Nifty",
     "seoTitle": "Website Security Australia | Protect Your Site | Nifty",
     "seoDescription": "Keep your website safe from hacks, malware and downtime. Australian website security, monitoring and backups. Get a fixed free quote.",
@@ -498,13 +498,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:21:58.645Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-37",
     "path": "/white-label/pricing",
-    "type": "page",
+    "type": "service",
     "title": "Partner Pricing | White Label Web Design | Nifty Websites",
     "seoTitle": "Partner Pricing | White Label Web Design | Nifty Websites",
     "seoDescription": "Partner pricing for agencies reselling web design, development and SEO under their brand. Healthy margins, clear rates. Become a partner.",
@@ -514,13 +514,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:22:15.047Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-38",
     "path": "/white-label/seo",
-    "type": "page",
+    "type": "service",
     "title": "White Label SEO for Agencies | Nifty Websites Australia",
     "seoTitle": "White Label SEO for Agencies | Nifty Websites Australia",
     "seoDescription": "White label SEO for Australian agencies, delivered and reported under your brand. On-page, technical and content SEO. Become a partner.",
@@ -530,13 +530,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:22:36.209Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-39",
     "path": "/white-label/web-design",
-    "type": "page",
+    "type": "service",
     "title": "White Label Web Design for Agencies | Nifty Websites Australia",
     "seoTitle": "White Label Web Design for Agencies | Nifty Websites Australia",
     "seoDescription": "White label web design for Australian agencies, delivered under your brand. Reliable, on-time, invisible. Become a Nifty partner.",
@@ -546,13 +546,13 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:22:45.616Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-40",
     "path": "/white-label",
-    "type": "page",
+    "type": "service",
     "title": "White Label Web Design & Development for Agencies | Nifty Websites",
     "seoTitle": "White Label Web Design & Development for Agencies | Nifty Websites",
     "seoDescription": "White label web design, development and SEO for Australian agencies. Sell websites under your own brand while our team builds behind the scenes. Become a partner.",
@@ -562,7 +562,7 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:22:59.577Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
@@ -585,7 +585,7 @@
   {
     "id": "pg-42",
     "path": "/web-development/wordpress",
-    "type": "page",
+    "type": "service",
     "title": "WordPress Website Design & Development Australia | Nifty",
     "seoTitle": "WordPress Website Design & Development Australia | Nifty",
     "seoDescription": "WordPress websites built for speed, security and easy editing, with a complete SEO build included. Get a fixed free quote from an Australian team.",
@@ -595,7 +595,7 @@
     "status": "published",
     "createdAt": "2026-09-11T05:31:40.604Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-11T20:23:57.451Z",
+    "updatedAt": "2026-09-12T01:35:50.042Z",
     "updatedBy": "derek"
   },
   {
