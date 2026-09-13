@@ -2314,5 +2314,21 @@
     "createdBy": "derek",
     "category": "Portfolio",
     "isHome": false
+  },
+  {
+    "id": "pg-150",
+    "path": "/portfolio/mi-painting",
+    "type": "page",
+    "title": "Mi Painting Website Design",
+    "seoTitle": "Mi Painting | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia designed and built the website for Mi Painting, a painting business in Australia.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-13T04:56:06.006Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-13T04:56:06.006Z",
+    "createdBy": "derek"
   }
 ]
