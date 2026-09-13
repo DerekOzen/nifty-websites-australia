@@ -271,12 +271,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-11T05:30:28.630Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-13T22:45:35.187Z",
+    "updatedAt": "2026-09-13T23:31:05.750Z",
     "updatedBy": "derek",
-    "category": "Portfolio"
+    "category": "Portfolio",
+    "isHome": false
   },
   {
     "id": "pg-21",
