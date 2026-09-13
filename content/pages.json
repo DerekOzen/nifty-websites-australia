@@ -2380,10 +2380,11 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "category": "Portfolio",
-    "status": "published",
-    "updatedAt": "2026-09-13T23:32:51.976Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-13T23:35:02.852Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-13T23:31:44.302Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   }
 ]
