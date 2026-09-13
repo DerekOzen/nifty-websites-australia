@@ -2296,5 +2296,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-12T01:12:14.497Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-149",
+    "path": "/chiro-haus",
+    "type": "page",
+    "title": "Chiro Haus",
+    "seoTitle": "Chiro Haus | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia designed and built the website for Chiro Haus, a chiropractic clinic in Australia.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-09-13T04:44:31.085Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-13T04:44:31.085Z",
+    "createdBy": "derek"
   }
 ]
