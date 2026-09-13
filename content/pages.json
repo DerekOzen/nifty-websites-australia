@@ -2349,5 +2349,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-13T22:42:00.720Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-152",
+    "path": "/portfolio//mi-painting-maintenance-portfolio",
+    "type": "portfolio",
+    "title": "Portfolio Mi Painting & Maintenance",
+    "seoTitle": "Mi Painting | Portfolio | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia built, maintains and ranks Mi Painting across Google Search, AI Overviews and AI assistants — painters serving Sydney.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-13T22:51:36.298Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-13T22:51:36.298Z",
+    "createdBy": "derek"
   }
 ]
