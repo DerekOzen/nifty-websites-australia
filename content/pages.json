@@ -2325,10 +2325,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-13T04:56:06.006Z",
+    "status": "published",
+    "updatedAt": "2026-09-13T04:56:29.658Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-13T04:56:06.006Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Portfolio"
   }
 ]
