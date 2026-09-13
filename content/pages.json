@@ -2368,5 +2368,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-13T22:51:36.298Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-153",
+    "path": "/portfolio",
+    "type": "portfolio",
+    "title": "Portfolio",
+    "seoTitle": "Our Work | Web Design Portfolio | Nifty Websites Australia",
+    "seoDescription": "See recent websites built by Nifty Websites Australia for businesses across the country. Browse our web design portfolio and start your project.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-13T23:31:44.302Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-13T23:31:44.302Z",
+    "createdBy": "derek"
   }
 ]
