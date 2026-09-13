@@ -2307,10 +2307,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
-    "updatedAt": "2026-09-13T04:44:31.085Z",
+    "status": "published",
+    "updatedAt": "2026-09-13T04:44:45.759Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-13T04:44:31.085Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Portfolio"
   }
 ]
