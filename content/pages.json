@@ -2307,11 +2307,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-09-13T04:45:26.396Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-13T04:50:54.217Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-13T04:44:31.085Z",
     "createdBy": "derek",
-    "category": "Portfolio"
+    "category": "Portfolio",
+    "isHome": false
   }
 ]
