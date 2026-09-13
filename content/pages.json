@@ -2332,5 +2332,22 @@
     "createdAt": "2026-09-13T04:56:06.006Z",
     "createdBy": "derek",
     "category": "Portfolio"
+  },
+  {
+    "id": "pg-151",
+    "path": "/portfolio/sege-seats-portfolio",
+    "type": "portfolio",
+    "title": "Sege Seats Portflio",
+    "seoTitle": "Sege Seats | Portfolio | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia built, maintains and ranks Sege Seats — a transport seating manufacturer ranking #1 for truck seating and cited in Google AI Overviews.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-13T22:42:00.720Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-13T22:42:00.720Z",
+    "createdBy": "derek"
   }
 ]
