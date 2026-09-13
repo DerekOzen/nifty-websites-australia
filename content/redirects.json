@@ -9,96 +9,522 @@
     "from": "/website-packages-for-small-business",
     "to": "/pricing",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/personal-web-design",
     "to": "/pricing",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/enterprise-website-design",
     "to": "/pricing",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/custom-websites",
     "to": "/web-design",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/website-development",
     "to": "/web-development",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/website-design-for-tradesmen",
     "to": "/website-for-tradies",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/what-makes-a-tradesmens-website-stand-out",
     "to": "/website-for-tradies",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/dental-website-development-australia",
     "to": "/website-for-dentists",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/ndis-website-design",
     "to": "/website-for-ndis-providers",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/website-maintenance-packages",
     "to": "/hosting/care-plans",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/website-support-sydney",
     "to": "/hosting/care-plans",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/woocommerce-website-designer",
     "to": "/web-development/woocommerce-shopify",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/website-for-industrial-companies",
     "to": "/website-for-manufacturers",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/white-label-website-services",
     "to": "/white-label",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/blogs",
     "to": "/learn",
     "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
+    "at": "2026-09-13T04:52:43.253Z"
   },
   {
     "from": "/best-website-builder-for-restaurants",
     "to": "/website-for-restaurants",
     "code": 301,
     "at": "2026-09-13T03:53:20.036Z"
+  },
+  {
+    "from": "/hosting/vps",
+    "to": "/vps-web-hosting",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/hosting/care-plans",
+    "to": "/website-care-plans",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/web-development/woocommerce-shopify",
+    "to": "/woo-commerce-shopify-developer",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-your-woocommerce-checkout-not-working-properly",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/are-custom-web-design-solutions-better-than-premade-themes",
+    "to": "/custom-vs-template-websites-in-2026-what-aussie-smes-need-to-know",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/are-static-website-themes-seo-friendly",
+    "to": "/custom-vs-template-websites-in-2026-what-aussie-smes-need-to-know",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/can-custom-website-development-boost-conversions",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/can-ssl-settings-impact-woocommerce-payments",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/cheap-websites",
+    "to": "/how-much-does-it-cost-to-build-a-website-for-a-small-business-in-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/checklist-to-choose-website-designer-in-australia",
+    "to": "/how-to-pick-a-website-design-agency-in-australia-in-2026-without-getting-burnt",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/diy-website-builders-vs-custom-builds-what-aussie-smes-usually-overlook-about-long-term-scalability",
+    "to": "/custom-vs-template-websites-in-2026-what-aussie-smes-need-to-know",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/diy-website-vs-professional-build-what-actually-works-for-australian-small-businesses",
+    "to": "/custom-vs-template-websites-in-2026-what-aussie-smes-need-to-know",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/do-website-packages-help-or-hinder-seo-in-2026",
+    "to": "/how-much-does-it-cost-to-build-a-website-for-a-small-business-in-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/does-ai-website-design-actually-deliver-better-conversions-in-2026",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/ecommerce-site-search-top-7-best-practices-for-ecommerce-website",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/ecommerce-website-designs-the-importance-of-an-ecommerce-web-design",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/essential-website-support-and-maintenance-tasks-most-aussie-start-ups-forget",
+    "to": "/website-maintenance-checklist-for-2026-monthly-tasks-most-aussie-start-ups-forget",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-a-website-for-dropshipping-website-boost-your-business",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-can-florists-personalise-their-website-for-customers",
+    "to": "/best-website-builder-for-a-florist",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-can-painters-websites-attract-more-local-clients",
+    "to": "/website-for-painters",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-can-you-make-your-dental-website-stand-out",
+    "to": "/website-for-dentists",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-does-best-ux-design-impact-website-conversion-rates",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-does-the-best-accounting-website-design-get-more-leads",
+    "to": "/website-for-accountants",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-does-the-best-website-builder-for-food-truck-solve-issues",
+    "to": "/websites-for-food-trucks",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-to-build-the-fastest-website-to-load",
+    "to": "/core-web-vitals-in-2026-whats-new-and-how-aussie-businesses-can-stay-fast",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-to-calculate-lead-conversion-rate",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-to-find-out-whats-slowing-down-your-website",
+    "to": "/core-web-vitals-in-2026-whats-new-and-how-aussie-businesses-can-stay-fast",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-to-improve-product-page-conversion-in-woocommerce",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-to-optimise-woocommerce-product-pages-for-voice-search",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-to-reduce-cart-abandonment-on-a-florist-website",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-to-secure-your-ecommerce-website-7-tips",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/how-website-packages-impact-seo-speed-and-conversions-in-2026",
+    "to": "/how-much-does-it-cost-to-build-a-website-for-a-small-business-in-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/is-custom-design-better-for-a-dropshipping-website",
+    "to": "/custom-vs-template-websites-in-2026-what-aussie-smes-need-to-know",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/is-mobile-first-design-important-for-woocommerce-in-australia",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/is-streamlining-woocommerce-guest-checkout-possible",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/ongoing-website-maintenance-in-2026-why-development-doesnt-end-at-launch",
+    "to": "/website-maintenance-checklist-for-2026-monthly-tasks-most-aussie-start-ups-forget",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/rebuild-or-refresh-knowing-when-full-website-development-beats-a-quick-facelift",
+    "to": "/when-is-the-right-time-to-redesign-a-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/redesign-vs-refresh-how-to-tell-when-your-business-website-needs-more-than-a-facelift",
+    "to": "/when-is-the-right-time-to-redesign-a-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/seven-visual-red-flags-telling-you-its-time-to-redesign-your-website-in-2026",
+    "to": "/when-is-the-right-time-to-redesign-a-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/ultimate-guide-how-to-make-a-website-in-2022",
+    "to": "/(410 or nearest guide)",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/website-performance-professional-web-design",
+    "to": "/core-web-vitals-in-2026-whats-new-and-how-aussie-businesses-can-stay-fast",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/website-redesign-checklist-australian-businesses",
+    "to": "/when-is-the-right-time-to-redesign-a-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-are-the-best-cafe-website-ideas-for-2025",
+    "to": "/website-for-cafes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-are-the-key-elements-of-a-successful-website-design-for-tradies",
+    "to": "/website-for-tradies",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-are-the-key-elements-of-the-best-electrical-website-design-for-a-user-friendly-website",
+    "to": "/electrician-website-design",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-design-elements-attract-customers-to-a-florist-website",
+    "to": "/best-website-builder-for-a-florist",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-does-a-website-design-agency-actually-do-in-2026-a-plain-english-breakdown-for-sme-owners",
+    "to": "/how-to-pick-a-website-design-agency-in-australia-in-2026-without-getting-burnt",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-is-the-best-layout-for-an-electricians-website",
+    "to": "/electrician-website-design",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-is-the-best-website-conversion-testing-practice",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-is-the-difference-between-a-website-lead-and-website-conversion",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-makes-a-website-look-outdated-in-2026-and-how-to-spot-it-before-your-customers-do",
+    "to": "/when-is-the-right-time-to-redesign-a-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-makes-the-best-logistics-website-design",
+    "to": "/website-for-logistics-companies",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/what-makes-the-best-websites-for-schools-in-2025",
+    "to": "/(410 or nearest guide)",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/when-is-it-time-to-redesign-videographers-website-uis",
+    "to": "/when-is-the-right-time-to-redesign-a-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/when-should-you-consider-a-website-redesign",
+    "to": "/when-is-the-right-time-to-redesign-a-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/when-should-you-use-a-cdn-for-website-speed-enhancement",
+    "to": "/core-web-vitals-in-2026-whats-new-and-how-aussie-businesses-can-stay-fast",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/which-features-are-must-haves-in-woocommerce-web-design",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/which-features-define-the-best-industrial-website-design",
+    "to": "/website-for-manufacturers",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/which-layout-works-best-for-podcast-website-design",
+    "to": "/best-website-builder-for-podcasts",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/which-website-design-trends-help-food-trucks-stand-out",
+    "to": "/websites-for-food-trucks",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-continuous-development-keeps-your-website-earning-its-keep",
+    "to": "/website-maintenance-checklist-for-2026-monthly-tasks-most-aussie-start-ups-forget",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-a-website-speed-test-in-australia-important",
+    "to": "/core-web-vitals-in-2026-whats-new-and-how-aussie-businesses-can-stay-fast",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-clean-website-design-vital-for-converting-visitors",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-product-description-important-in-woocommerce",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-website-design-for-painters-vita-for-business-growth",
+    "to": "/website-for-painters",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-website-design-important-for-small-businesses",
+    "to": "/10-key-steps-to-building-a-great-small-business-website",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-your-conversion-rate-low-on-your-e-commerce-website",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/why-is-your-website-slower-during-peak-traffic-times",
+    "to": "/core-web-vitals-in-2026-whats-new-and-how-aussie-businesses-can-stay-fast",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/woocommerce-vs-shopify-which-is-better-for-australian-small-businesses-in-2026",
+    "to": "/best-wordpress-woocommerce-shopify-developers-australia",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/woocommerce-vs-shopify-who-comes-out-on-top-2022",
+    "to": "/(410 or nearest guide)",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
+  },
+  {
+    "from": "/your-website-looks-great-so-why-isnt-it-converting-common-causes",
+    "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+    "code": 301,
+    "at": "2026-09-13T04:52:43.253Z"
   }
 ]
