@@ -2326,12 +2326,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-09-13T11:09:18.763Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-13T22:55:32.262Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-13T04:56:06.006Z",
     "createdBy": "derek",
-    "category": "Portfolio"
+    "category": "Portfolio",
+    "isHome": false
   },
   {
     "id": "pg-151",
