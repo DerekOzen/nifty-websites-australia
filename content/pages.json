@@ -2472,5 +2472,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T01:47:37.171Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-159",
+    "path": "/portfolio/attilas-natural-stone-portfolio",
+    "type": "portfolio",
+    "title": "Attilas Natural Stone Portfolio",
+    "seoTitle": "Attila's Natural Stone | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia grew Attila's Natural Stone: a WooCommerce store ranking #1 for premium stone searches, cited in Google AI Overviews, with new high-converting Melbourne landing pages.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T02:30:45.727Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T02:30:45.727Z",
+    "createdBy": "derek"
   }
 ]
