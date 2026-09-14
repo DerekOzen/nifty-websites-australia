@@ -2591,5 +2591,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T04:11:15.628Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-166",
+    "path": "/portfolio/asv-contractors",
+    "type": "portfolio",
+    "title": "ASV Contractors",
+    "seoTitle": "ASV Contractors | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia designed a project-based construction website for ASV Contractors, delivering the full theme and feel in just 5 working days on the Nifty Websites AI builder.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T04:22:07.029Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T04:22:07.029Z",
+    "createdBy": "derek"
   }
 ]
