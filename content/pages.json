@@ -2438,5 +2438,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T00:56:58.488Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-157",
+    "path": "/portfolio//ac-cleaning",
+    "type": "portfolio",
+    "title": "AC Cleaning Portfolio",
+    "seoTitle": "AC Cleaning Supplies | Portfolio | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia built and ranks AC Cleaning Supplies — a 950-product WooCommerce cleaning-supplies store ranking across the competitive wholesale market.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T01:22:16.091Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T01:22:16.091Z",
+    "createdBy": "derek"
   }
 ]
