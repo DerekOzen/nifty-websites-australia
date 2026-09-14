@@ -2475,7 +2475,7 @@
   },
   {
     "id": "pg-159",
-    "path": "/portfolio/attilas-natural-stone-portfolio",
+    "path": "/portfolio/attila-natural-stone-portfolio",
     "type": "portfolio",
     "title": "Attilas Natural Stone Portfolio",
     "seoTitle": "Attila's Natural Stone | Portfolio | Nifty Websites Australia",
@@ -2484,8 +2484,8 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "category": "Portfolio",
-    "status": "draft",
-    "updatedAt": "2026-09-14T02:30:45.727Z",
+    "status": "published",
+    "updatedAt": "2026-09-14T02:31:15.308Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-14T02:30:45.727Z",
     "createdBy": "derek"
