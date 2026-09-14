@@ -2455,5 +2455,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T01:22:16.091Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-158",
+    "path": "/portfolio/bkk-portfolio",
+    "type": "portfolio",
+    "title": "BKK Portfolio",
+    "seoTitle": "BKK Australia | Portfolio | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia built BKK Australia a website with a wholesale client portal and ranks it #1 for wholesale Asian food distribution.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T01:47:37.171Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T01:47:37.171Z",
+    "createdBy": "derek"
   }
 ]
