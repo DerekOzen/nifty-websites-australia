@@ -2557,5 +2557,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T03:49:10.686Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-164",
+    "path": "/portfolio/bluechip-it",
+    "type": "portfolio",
+    "title": "Bluechip IT",
+    "seoTitle": "Blue Chip IT | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia designed the global hub site for Blue Chip IT, a worldwide IT hardware and software distributor, connecting its regional websites across Australia, New Zealand, Taiwan and the Philippines.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T03:58:23.809Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T03:58:23.809Z",
+    "createdBy": "derek"
   }
 ]
