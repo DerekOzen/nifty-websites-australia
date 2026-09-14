@@ -2540,5 +2540,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T03:26:17.033Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-163",
+    "path": "/portfolio/pause-skin-clinic",
+    "type": "portfolio",
+    "title": "Pause Skin Clinic",
+    "seoTitle": "Pause Cosmetic Skin Clinic | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia more than tripled the SEO performance of Pause Cosmetic Skin Clinic in Townsville: #1 rankings for high-converting treatments, Google AI Overview citations, and a site kept to TGA advertising standards.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T03:49:10.686Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T03:49:10.686Z",
+    "createdBy": "derek"
   }
 ]
