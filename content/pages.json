@@ -2574,5 +2574,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T03:58:23.809Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-165",
+    "path": "/portfolio/rosella-finance",
+    "type": "portfolio",
+    "title": "Rosella Finance",
+    "seoTitle": "Rosella Finance | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia built a complete, functional mortgage broking website for Rosella Finance, with live loan repayment, borrowing power and stamp duty calculators built in.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T04:11:15.628Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T04:11:15.628Z",
+    "createdBy": "derek"
   }
 ]
