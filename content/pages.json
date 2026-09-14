@@ -2506,5 +2506,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T03:02:39.317Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-161",
+    "path": "/portfolio/core-driving-school",
+    "type": "portfolio",
+    "title": "Core Driving School",
+    "seoTitle": "Core Driving School | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia built and ranks Core Driving School: a WordPress site ranking #1 for heavy-vehicle licence searches, cited in Google AI Overviews, top of the local map pack, with 1,400+ five-star Google reviews.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T03:15:53.518Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T03:15:53.518Z",
+    "createdBy": "derek"
   }
 ]
