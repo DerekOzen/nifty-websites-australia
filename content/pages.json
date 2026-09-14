@@ -2523,5 +2523,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T03:15:53.518Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-162",
+    "path": "/portfolio//meliora-projects",
+    "type": "portfolio",
+    "title": "Meliora Projects Portfolio",
+    "seoTitle": "Meliora Projects | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia rebuilt Meliora Projects on WordPress with custom PHP: a NSW planning consultancy ranking #1 for its core services, cited in Google AI Overviews, with branding and CRO handled in-house.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T03:26:17.033Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T03:26:17.033Z",
+    "createdBy": "derek"
   }
 ]
