@@ -2489,5 +2489,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T02:30:45.727Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-160",
+    "path": "/portfolio//kids-party-house-portfolio",
+    "type": "portfolio",
+    "title": "Kids Party House Portfolio",
+    "seoTitle": "Kids Party House | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how Nifty Websites Australia built Kids Party House on the Nifty Websites AI builder: a party-quote marketplace launched September 2026 and optimised for rankings from day one, with early page-one wins already landing.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T03:02:39.317Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T03:02:39.317Z",
+    "createdBy": "derek"
   }
 ]
