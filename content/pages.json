@@ -2421,5 +2421,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T00:52:20.729Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-156",
+    "path": "/potfolio/abargain-gardener",
+    "type": "portfolio",
+    "title": "A Bargain Gardener Portfolio",
+    "seoTitle": "A Bargain Gardener | Portfolio | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia built, maintains and ranks A Bargain Gardener — a Sydney gardening business ranking #1 in the local map pack and cited in Google AI Overviews.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-14T00:56:58.488Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-14T00:56:58.488Z",
+    "createdBy": "derek"
   }
 ]
