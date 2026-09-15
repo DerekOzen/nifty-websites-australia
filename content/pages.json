@@ -1021,10 +1021,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-15T05:14:30.251Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T05:14:30.251Z",
+    "updatedAt": "2026-09-15T07:17:01.719Z",
     "updatedBy": "derek"
   },
   {
