@@ -2756,5 +2756,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-15T20:51:32.580Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-244",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank You | Nifty Websites Australia",
+    "seoDescription": "Thanks for your enquiry. Nifty Websites Australia will reply within one business day with fixed pricing and honest advice.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-15T21:09:22.772Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-15T21:09:22.772Z",
+    "createdBy": "derek"
   }
 ]
