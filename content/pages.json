@@ -964,7 +964,7 @@
   {
     "id": "pg-153",
     "path": "/start-your-project",
-    "type": "service",
+    "type": "page",
     "title": "Start Your Project | Project Brief | Nifty Websites Australia",
     "seoTitle": "Start Your Project | Project Brief | Nifty Websites Australia",
     "seoDescription": "Start your website project with Nifty Websites Australia. Share your package, brand colours, logo, services and customisations in one simple onboarding brief.",
@@ -974,13 +974,14 @@
     "status": "published",
     "createdAt": "2026-09-15T05:14:30.251Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T06:35:21.625Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-15T20:44:23.501Z",
+    "updatedBy": "derek",
+    "category": "Other"
   },
   {
     "id": "pg-154",
     "path": "/terms-of-services",
-    "type": "service",
+    "type": "page",
     "title": "Terms & Conditions | Nifty Websites Australia",
     "seoTitle": "Terms & Conditions | Nifty Websites Australia",
     "seoDescription": "The terms that apply to using the Nifty Websites Australia website and engaging our web design, development and SEO services.",
@@ -990,8 +991,9 @@
     "status": "published",
     "createdAt": "2026-09-15T05:14:30.251Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T06:50:15.227Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-15T20:44:23.501Z",
+    "updatedBy": "derek",
+    "category": "Other"
   },
   {
     "id": "pg-168",
