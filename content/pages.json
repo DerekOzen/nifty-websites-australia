@@ -1006,8 +1006,10 @@
     "status": "published",
     "createdAt": "2026-09-15T05:14:30.251Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T06:48:53.055Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-15T06:50:53.032Z",
+    "updatedBy": "derek",
+    "category": "Other",
+    "noindex": true
   },
   {
     "id": "pg-169",
