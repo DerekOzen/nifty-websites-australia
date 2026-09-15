@@ -1,11 +1,5 @@
 [
   {
-    "from": "/website-packages",
-    "to": "/pricing",
-    "code": 301,
-    "at": "2026-09-12T01:09:53.642Z"
-  },
-  {
     "from": "/website-packages-for-small-business",
     "to": "/pricing",
     "code": 301,
