@@ -1857,5 +1857,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-14T04:42:59.036Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-143",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Web Design Agency Australia | Built to Rank & Convert | Nifty Websites",
+    "seoDescription": "Australian web design agency building websites designed to rank, convert and drive growth. A complete SEO build is included on every site. Get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-15T05:08:23.816Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-15T05:08:23.816Z",
+    "createdBy": "derek"
   }
 ]
