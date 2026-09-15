@@ -1021,11 +1021,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-15T05:14:30.251Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T07:28:54.306Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-15T20:32:02.663Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-170",
