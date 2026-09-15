@@ -1165,11 +1165,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-15T05:19:42.106Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T05:19:42.106Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-15T07:18:17.585Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-179",
