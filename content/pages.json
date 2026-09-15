@@ -2419,5 +2419,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-15T20:23:27.650Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-169",
+    "path": "/web-design",
+    "type": "service",
+    "title": "Web Design",
+    "seoTitle": "Web Design Australia | Website Design Services | Nifty Websites",
+    "seoDescription": "Web design services for Australian businesses: custom, small business, eCommerce, redesign and landing pages, all with a complete SEO build included.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-15T20:48:01.592Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-15T20:48:01.592Z",
+    "createdBy": "derek"
   }
 ]
