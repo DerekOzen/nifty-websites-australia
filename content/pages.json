@@ -2628,7 +2628,7 @@
   },
   {
     "id": "pg-184",
-    "path": "/web-design-redesign",
+    "path": "/web-design/redesign",
     "type": "service",
     "title": "Website Redesign Australia | Nifty Websites Australia",
     "seoTitle": "Website Redesign Australia | Nifty Websites Australia",
@@ -2636,10 +2636,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-15T20:51:32.580Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T20:51:32.580Z",
+    "updatedAt": "2026-09-16T05:43:50.625Z",
     "updatedBy": "derek"
   },
   {
