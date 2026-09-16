@@ -2923,5 +2923,21 @@
     "createdAt": "2026-09-16T13:20:13.127Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-288",
+    "path": "/about-us",
+    "type": "page",
+    "title": "About Us",
+    "seoTitle": "About Nifty Websites Australia | Web Design Team",
+    "seoDescription": "Meet Nifty Websites Australia, an Australian web design team building sites that rank, convert and grow. Learn how we work and get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-16T13:51:41.489Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-16T13:51:41.489Z",
+    "createdBy": "derek"
   }
 ]
