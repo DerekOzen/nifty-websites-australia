@@ -264,12 +264,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-16T12:40:30.254Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-16T13:19:51.923Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-15T05:08:23.816Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-144",
