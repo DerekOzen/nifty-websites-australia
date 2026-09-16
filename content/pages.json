@@ -842,11 +842,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-15T05:12:33.666Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T06:47:50.003Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-16T09:43:06.982Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-145",
