@@ -2500,7 +2500,7 @@
   },
   {
     "id": "pg-176",
-    "path": "/hosting-care-plans",
+    "path": "/hosting/care-plans",
     "type": "service",
     "title": "Website Care Plans Australia | Nifty Websites Australia",
     "seoTitle": "Website Care Plans Australia | Nifty Websites Australia",
@@ -2511,7 +2511,7 @@
     "status": "published",
     "createdAt": "2026-09-15T20:51:06.334Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-16T00:47:58.366Z",
+    "updatedAt": "2026-09-16T05:42:14.633Z",
     "updatedBy": "derek"
   },
   {
