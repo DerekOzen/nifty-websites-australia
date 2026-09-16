@@ -2692,7 +2692,7 @@
   },
   {
     "id": "pg-188",
-    "path": "/web-development-wordpress",
+    "path": "/web-development/wordpress",
     "type": "service",
     "title": "WordPress Website Design & Development Australia | Nifty",
     "seoTitle": "WordPress Website Design & Development Australia | Nifty",
@@ -2700,10 +2700,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-15T20:51:32.580Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T20:51:32.580Z",
+    "updatedAt": "2026-09-16T05:44:36.694Z",
     "updatedBy": "derek"
   },
   {
