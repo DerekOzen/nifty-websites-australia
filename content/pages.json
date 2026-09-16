@@ -1893,10 +1893,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-16T12:17:18.267Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-16T12:17:18.267Z",
+    "updatedAt": "2026-09-16T23:10:09.273Z",
     "updatedBy": "derek"
   },
   {
