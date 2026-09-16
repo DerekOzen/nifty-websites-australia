@@ -2463,11 +2463,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-15T20:51:06.334Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T20:51:06.334Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-16T00:30:42.668Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-172",
