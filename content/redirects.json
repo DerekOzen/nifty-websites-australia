@@ -1,11 +1,5 @@
 [
   {
-    "from": "/website-design-reseller-service",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-16T10:20:27.947Z"
-  },
-  {
     "from": "/white-label/web-development",
     "to": "/",
     "code": 301,
