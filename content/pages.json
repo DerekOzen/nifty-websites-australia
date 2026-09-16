@@ -2797,11 +2797,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "category": "White Label",
     "createdAt": "2026-09-16T10:28:31.329Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-16T10:28:31.329Z",
+    "updatedAt": "2026-09-16T10:29:26.648Z",
     "updatedBy": "derek"
   },
   {
