@@ -2773,5 +2773,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-15T21:09:22.772Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-245",
+    "path": "/domain-name",
+    "type": "service",
+    "title": "Domain Name",
+    "seoTitle": "Domain Names Australia | Register & Connect | Nifty Websites",
+    "seoDescription": "What a domain name is, how to choose one, and how to register and connect it to your website. Get help from an Australian team.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-16T00:34:37.611Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-16T00:34:37.611Z",
+    "createdBy": "derek"
   }
 ]
