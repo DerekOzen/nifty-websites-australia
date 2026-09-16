@@ -1,5 +1,389 @@
 [
   {
+    "from": "/website-design-armidale",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-alice-springs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-albury",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-albany",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-adelaide",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/locations",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-wollongong",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-wodonga",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-whyalla",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-warrnambool",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-wagga-wagga",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-tweed-heads",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-traralgon",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-townsville",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-toowoomba",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-tamworth",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-sydney",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-sunshine-coast",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-sunbury",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-shepparton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-rockhampton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-queanbeyan",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-port-macquarie",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-perth",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-orange",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-nowra",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-newcastle",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-mount-gambier",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-mooroopna",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-mittagong",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-mildura",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-melton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-melbourne",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-maryborough",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-maitland",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-mackay",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-lismore",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-launceston",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-kalgoorlie",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-hobart",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-goulburn",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-gold-coast",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-gladstone",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-geraldton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-geelong",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-gawler",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-dubbo",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-devonport",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-darwin",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-coffs-harbour",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-cessnock",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-central-coast",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-canberra",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-cairns",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-busselton",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-bundaberg",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-bunbury",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-brisbane",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-bowral",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-boulder",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-bomaderry",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-bendigo",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-bathurst",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
+    "from": "/website-design-ballarat",
+    "to": "/",
+    "code": 301,
+    "at": "2026-09-16T11:12:57.846Z"
+  },
+  {
     "from": "/website-for-wholesalers",
     "to": "/",
     "code": 301,
