@@ -2496,10 +2496,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-15T20:51:06.334Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-15T20:51:06.334Z",
+    "updatedAt": "2026-09-16T00:31:34.428Z",
     "updatedBy": "derek"
   },
   {
