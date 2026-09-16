@@ -963,25 +963,6 @@
     "category": "Other"
   },
   {
-    "id": "pg-168",
-    "path": "/thank-you",
-    "type": "service",
-    "title": "Thank You — Nifty AI",
-    "seoTitle": "Thank You — Nifty AI",
-    "seoDescription": "Thanks for your enquiry. The Nifty AI team will be in touch within one business day.",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-09-15T05:14:30.251Z",
-    "createdBy": "derek",
-    "updatedAt": "2026-09-15T21:08:56.950Z",
-    "updatedBy": "derek",
-    "category": "Other",
-    "noindex": true,
-    "isHome": false
-  },
-  {
     "id": "pg-107",
     "path": "/best-wordpress-woocommerce-shopify-developers-australia",
     "type": "post",
@@ -2452,23 +2433,6 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-15T21:26:54.608Z",
     "updatedBy": "derek"
-  },
-  {
-    "id": "pg-171",
-    "path": "/domain-name",
-    "type": "service",
-    "title": "Domain Names Australia | Register & Connect | Nifty Websites",
-    "seoTitle": "Domain Names Australia | Register & Connect | Nifty Websites",
-    "seoDescription": "What a domain name is, how to choose one, and how to register and connect it to your website. Get help from an Australian team.",
-    "layout": "mockup",
-    "headerPartId": "header-3",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-09-15T20:51:06.334Z",
-    "createdBy": "derek",
-    "updatedAt": "2026-09-16T00:30:42.668Z",
-    "updatedBy": "derek",
-    "isHome": false
   },
   {
     "id": "pg-172",
