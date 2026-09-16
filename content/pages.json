@@ -2889,5 +2889,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-16T09:36:29.583Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-254",
+    "path": "/contact-us",
+    "type": "page",
+    "title": "Contact Us",
+    "seoTitle": "Contact Us | Get a Free Quote | Nifty Websites Australia",
+    "seoDescription": "Get a fixed, no-obligation quote for your website. Call 1300 164 389 or send an enquiry and our Australian team will reply within one business day.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-16T09:43:30.525Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-16T09:43:30.525Z",
+    "createdBy": "derek"
   }
 ]
