@@ -3662,10 +3662,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-17T05:15:54.372Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-17T05:15:54.372Z",
+    "updatedAt": "2026-09-17T05:37:49.307Z",
     "updatedBy": "joshua"
   }
 ]
