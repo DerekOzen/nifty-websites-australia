@@ -3678,10 +3678,10 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-09-17T06:37:03.832Z",
     "createdBy": "ruzgar",
-    "updatedAt": "2026-09-17T06:37:03.832Z",
+    "updatedAt": "2026-09-17T06:50:52.908Z",
     "updatedBy": "ruzgar",
     "isHome": false
   }
