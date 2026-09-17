@@ -1678,11 +1678,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-16T10:57:04.532Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-16T10:57:04.532Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-17T05:08:21.763Z",
+    "updatedBy": "ruzgar"
   },
   {
     "id": "pg-273",
