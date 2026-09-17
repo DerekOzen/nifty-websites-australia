@@ -426,12 +426,6 @@
     "at": "2026-09-16T10:40:23.105Z"
   },
   {
-    "from": "/website-for-cafes",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-16T10:40:23.105Z"
-  },
-  {
     "from": "/website-for-dentists",
     "to": "/",
     "code": 301,
