@@ -3712,12 +3712,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-18T02:41:14.054Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-18T06:55:31.429Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-18T02:40:57.889Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-331",
