@@ -3747,12 +3747,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-19T00:30:55.480Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-19T12:20:11.041Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-18T06:56:03.105Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-333",
