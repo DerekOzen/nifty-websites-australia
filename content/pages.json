@@ -3831,11 +3831,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-19T22:41:50.843Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-19T22:46:47.533Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-19T22:40:17.429Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   }
 ]
