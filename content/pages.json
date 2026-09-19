@@ -3779,10 +3779,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
-    "updatedAt": "2026-09-18T23:19:22.682Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-19T06:41:07.290Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-18T23:19:22.682Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   }
 ]
