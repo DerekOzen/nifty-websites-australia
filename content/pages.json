@@ -3803,5 +3803,21 @@
     "createdAt": "2026-09-19T12:20:34.113Z",
     "createdBy": "derek",
     "isHome": true
+  },
+  {
+    "id": "pg-336",
+    "path": "/client-login",
+    "type": "page",
+    "title": "Client Login",
+    "seoTitle": "Client Login | Nifty Websites Australia",
+    "seoDescription": "Australian web design agency building websites designed to rank, convert and drive growth. A complete SEO build is included on every site. Get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-19T19:45:06.104Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-19T19:45:06.104Z",
+    "createdBy": "derek"
   }
 ]
