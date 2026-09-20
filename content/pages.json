@@ -3870,5 +3870,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-19T23:14:22.526Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-340",
+    "path": "/ederer",
+    "type": "page",
+    "title": "ederer",
+    "seoTitle": "Web Design Agency Australia | Built to Rank & Convert | Nifty Websites",
+    "seoDescription": "Australian web design agency building websites designed to rank, convert and drive growth. A complete SEO build is included on every site. Get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-20T00:05:35.262Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-20T00:05:35.262Z",
+    "createdBy": "derek"
   }
 ]
