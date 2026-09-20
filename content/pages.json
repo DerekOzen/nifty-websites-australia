@@ -3857,7 +3857,7 @@
   },
   {
     "id": "pg-339",
-    "path": "/home-2",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Web Design Agency Australia | Built to Rank & Convert | Nifty Websites",
@@ -3866,10 +3866,11 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-20T00:11:07.238Z",
+    "updatedAt": "2026-09-20T00:11:17.830Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-19T23:14:22.526Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   },
   {
     "id": "pg-340",
