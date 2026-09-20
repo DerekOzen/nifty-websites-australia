@@ -3765,11 +3765,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-19T06:40:39.885Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-20T23:19:47.966Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-18T09:03:05.152Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-334",
