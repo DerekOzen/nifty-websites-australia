@@ -3921,5 +3921,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-20T23:20:10.832Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-343",
+    "path": "/portfolio/bush-winch",
+    "type": "portfolio",
+    "title": "Bush Winch",
+    "seoTitle": "Bush Winch Case Study | Custom eCommerce & Vehicle Configurator | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia designed and built Bush Winch: a custom eCommerce site with a Buy Now vehicle configurator, QR-code wheel-photo verification and international checkout.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-21T00:49:49.235Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-21T00:49:49.235Z",
+    "createdBy": "derek"
   }
 ]
