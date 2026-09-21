@@ -4662,12 +4662,12 @@
     "seoTitle": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
     "seoDescription": "Practical web design, SEO, speed, eCommerce and website maintenance guides for Australian businesses, from Nifty Websites Australia.",
     "layout": "mockup",
-    "headerPartId": "header-3",
+    "headerPartId": null,
     "footerPartId": "footer-3",
     "status": "published",
     "createdAt": "2026-09-21T05:36:50.206Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-21T05:38:24.440Z",
+    "updatedAt": "2026-09-21T05:53:56.248Z",
     "updatedBy": "joshua",
     "category": "Other"
   }
