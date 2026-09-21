@@ -4007,11 +4007,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-21T04:53:11.412Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-21T05:20:30.624Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-21T05:33:09.000Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-346",
