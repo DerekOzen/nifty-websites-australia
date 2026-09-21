@@ -4657,7 +4657,7 @@
   {
     "id": "pg-386",
     "path": "/learn",
-    "type": "post",
+    "type": "page",
     "title": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
     "seoTitle": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
     "seoDescription": "Practical web design, SEO, speed, eCommerce and website maintenance guides for Australian businesses, from Nifty Websites Australia.",
@@ -4667,7 +4667,8 @@
     "status": "published",
     "createdAt": "2026-09-21T05:36:50.206Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-21T05:37:45.196Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-21T05:38:24.440Z",
+    "updatedBy": "joshua",
+    "category": "Other"
   }
 ]
