@@ -1336,5 +1336,11 @@
     "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
     "code": 301,
     "at": "2026-09-17T07:56:56.818Z"
+  },
+  {
+    "from": "/potfolio/abargain-gardener",
+    "to": "/portfolio/a-bargain-gardener",
+    "code": 301,
+    "at": "2026-09-21T07:00:46.872Z"
   }
 ]
