@@ -3916,11 +3916,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-20T23:21:40.930Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-21T04:09:20.438Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-20T23:20:10.832Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-343",
