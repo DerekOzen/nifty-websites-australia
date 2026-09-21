@@ -4349,5 +4349,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-09-21T05:29:52.721Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-367",
+    "path": "/buy-now",
+    "type": "page",
+    "title": "Buy Now",
+    "seoTitle": "Buy the $199 Homepage Concept | Nifty Websites Australia",
+    "seoDescription": "Buy a professionally designed, fully workable homepage concept for your business for just $199 incl. GST. Ready for the Nifty Websites AI Builder. A smarter way to get online.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-21T05:33:33.777Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-21T05:33:33.777Z",
+    "createdBy": "derek"
   }
 ]
