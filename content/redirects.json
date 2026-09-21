@@ -1,11 +1,5 @@
 [
   {
-    "from": "/website-design-alice-springs",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
     "from": "/website-design-mackay",
     "to": "/",
     "code": 301,
