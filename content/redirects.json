@@ -1,41 +1,5 @@
 [
   {
-    "from": "/website-design-central-coast",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
-    "from": "/website-design-brisbane",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
-    "from": "/website-design-boulder",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
-    "from": "/website-design-bomaderry",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
-    "from": "/website-design-bendigo",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
-    "from": "/website-design-ballarat",
-    "to": "/",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
     "from": "/when-should-you-consider-a-website-redesign",
     "to": "/when-is-the-right-time-to-redesign-a-website",
     "code": 301,
@@ -1014,12 +978,6 @@
     "at": "2026-09-17T07:56:56.818Z"
   },
   {
-    "from": "/vps-web-hosting",
-    "to": "/hosting/vps",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
     "from": "/website-care-plans",
     "to": "/hosting/care-plans",
     "code": 301,
@@ -1378,11 +1336,5 @@
     "to": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
     "code": 301,
     "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
-    "from": "/hosting/vps",
-    "to": "/hosting/business",
-    "code": 301,
-    "at": "2026-09-19T06:42:08.604Z"
   }
 ]
