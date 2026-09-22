@@ -4703,5 +4703,22 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-22T21:04:50.736Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-389",
+    "path": "/portfolio/muscle-up",
+    "type": "portfolio",
+    "title": "Muscle Up",
+    "seoTitle": "Muscle Up Case Study | WooCommerce Fitness Equipment Store | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia designed and built Bush Winch: a custom eCommerce site with a Buy Now vehicle configurator, QR-code wheel-photo verification and international checkout.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "category": "Portfolio",
+    "status": "draft",
+    "updatedAt": "2026-09-22T21:09:49.646Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-22T21:09:49.646Z",
+    "createdBy": "derek"
   }
 ]
