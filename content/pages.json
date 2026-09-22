@@ -4361,11 +4361,12 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-21T05:36:46.289Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-22T23:08:20.274Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-21T05:33:33.777Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-368",
