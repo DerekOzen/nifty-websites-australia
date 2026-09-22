@@ -4681,10 +4681,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-09-21T19:22:42.437Z",
-    "updatedBy": "derek",
+    "status": "deleted",
+    "updatedAt": "2026-09-22T03:20:34.914Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-21T19:22:27.027Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   }
 ]
