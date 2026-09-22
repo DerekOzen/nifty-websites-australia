@@ -4738,5 +4738,37 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-22T22:51:03.913Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-391",
+    "path": "/buy-now",
+    "type": "page",
+    "title": "Buy the $199 Homepage Concept | Nifty Websites Australia",
+    "seoTitle": "Buy the $199 Homepage Concept | Nifty Websites Australia",
+    "seoDescription": "Buy a professionally designed, fully workable homepage concept for your business for just $199 incl. GST. Ready for the Nifty Websites AI Builder. A smarter way to get online.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-09-22T23:08:51.344Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-22T23:08:51.344Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-392",
+    "path": "/pricing",
+    "type": "page",
+    "title": "Website Pricing & Plans | Nifty Websites Australia",
+    "seoTitle": "Website Pricing & Plans | Nifty Websites Australia",
+    "seoDescription": "Australian web design agency building websites designed to rank, convert and drive growth. A complete SEO build is included on every site. Get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-09-22T23:08:51.344Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-22T23:08:51.344Z",
+    "updatedBy": "derek"
   }
 ]
