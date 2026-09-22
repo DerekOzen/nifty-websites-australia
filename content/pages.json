@@ -4720,5 +4720,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-09-22T21:09:49.646Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-390",
+    "path": "/ai-website-builder",
+    "type": "page",
+    "title": "Ai Website Builder",
+    "seoTitle": "AI Website Builder by Nifty Websites AI | Nifty Websites Australia",
+    "seoDescription": "How Nifty Websites Australia designed and built Bush Winch: a custom eCommerce site with a Buy Now vehicle configurator, QR-code wheel-photo verification and international checkout.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-22T22:51:03.913Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-22T22:51:03.913Z",
+    "createdBy": "derek"
   }
 ]
