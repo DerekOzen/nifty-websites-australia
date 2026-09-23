@@ -4768,11 +4768,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-22T23:08:51.344Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T19:25:06.309Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-23T23:26:50.248Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-393",
