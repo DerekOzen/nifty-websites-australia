@@ -4771,5 +4771,22 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-23T03:47:51.806Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-393",
+    "path": "/portfolio/muscle-up-2",
+    "type": "portfolio",
+    "title": "Muscle Up Case Study | Nifty Websites Australia",
+    "seoTitle": "Muscle Up Case Study | Nifty Websites Australia",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "category": "Portfolio",
+    "createdAt": "2026-09-23T04:27:15.005Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-23T04:27:15.005Z",
+    "updatedBy": "joshua"
   }
 ]
