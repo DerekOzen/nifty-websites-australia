@@ -4840,5 +4840,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-09-23T19:14:36.179Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-397",
+    "path": "/prices",
+    "type": "page",
+    "title": "Prices",
+    "seoTitle": "Website Pricing & Plans | Nifty Websites Australia",
+    "seoDescription": "Australian web design agency building websites designed to rank, convert and drive growth. A complete SEO build is included on every site. Get a fixed free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-23T23:16:47.322Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-23T23:16:47.322Z",
+    "createdBy": "derek"
   }
 ]
