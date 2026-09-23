@@ -4858,5 +4858,21 @@
     "createdAt": "2026-09-23T23:16:47.322Z",
     "createdBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-398",
+    "path": "/nuy",
+    "type": "page",
+    "title": "Nuy",
+    "seoTitle": "Buy the $199 Homepage Concept | Nifty Websites Australia",
+    "seoDescription": "Buy a professionally designed, fully workable homepage concept for your business for just $199 incl. GST. Ready for the Nifty Websites AI Builder. A smarter way to get online.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-23T23:28:00.887Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-23T23:28:00.887Z",
+    "createdBy": "derek"
   }
 ]
