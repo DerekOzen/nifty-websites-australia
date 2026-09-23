@@ -918,12 +918,6 @@
     "at": "2026-09-17T07:56:56.818Z"
   },
   {
-    "from": "/portfolio/windscreen-replacers",
-    "to": "/portfolio",
-    "code": 301,
-    "at": "2026-09-17T07:56:56.818Z"
-  },
-  {
     "from": "/privacy-policy",
     "to": "/terms-of-services",
     "code": 301,
