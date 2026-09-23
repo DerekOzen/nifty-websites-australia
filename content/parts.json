@@ -8,7 +8,7 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-09-14T20:24:13.424Z",
+    "updatedAt": "2026-09-23T03:18:58.177Z",
     "settings": {
       "sticky": false,
       "autoHide": false,
@@ -34,7 +34,8 @@
       ],
       "accent": "#0f766e",
       "maxWidth": 1200
-    }
+    },
+    "deleted": true
   },
   {
     "id": "footer-1",
