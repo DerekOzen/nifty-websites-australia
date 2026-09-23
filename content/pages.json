@@ -4790,5 +4790,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-09-23T05:31:51.678Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-394",
+    "path": "/about-us",
+    "type": "page",
+    "title": "About Us",
+    "seoTitle": "About Nifty Websites Australia | Web Design Team",
+    "seoDescription": "Meet Nifty Websites Australia and founder Derek Ozen: an Australian web design team building sites that rank, convert and grow. Get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "updatedAt": "2026-09-23T18:54:11.781Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-09-23T18:54:11.781Z",
+    "createdBy": "derek"
   }
 ]
