@@ -3923,11 +3923,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
-    "status": "draft",
-    "updatedAt": "2026-09-23T03:33:03.426Z",
+    "status": "deleted",
+    "updatedAt": "2026-09-23T03:46:55.351Z",
     "updatedBy": "joshua",
     "createdAt": "2026-09-20T00:05:35.262Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-341",
