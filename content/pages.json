@@ -4818,11 +4818,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "category": "Portfolio",
     "createdAt": "2026-09-23T19:10:41.252Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T19:10:41.252Z",
+    "updatedAt": "2026-09-23T19:13:00.328Z",
     "updatedBy": "derek"
   },
   {
