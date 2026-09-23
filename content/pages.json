@@ -3907,12 +3907,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-23T05:43:17.366Z",
-    "updatedBy": "joshua",
+    "status": "deleted",
+    "updatedAt": "2026-09-23T23:31:25.690Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-19T23:14:22.526Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-340",
