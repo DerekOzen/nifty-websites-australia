@@ -4752,11 +4752,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-22T23:08:51.344Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T19:30:54.972Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-23T23:30:04.638Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-392",
