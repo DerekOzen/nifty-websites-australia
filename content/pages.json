@@ -3041,11 +3041,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "status": "deleted",
+    "updatedAt": "2026-09-23T18:53:44.873Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-16T13:51:41.489Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-289",
