@@ -4807,5 +4807,38 @@
     "createdAt": "2026-09-23T18:54:11.781Z",
     "createdBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-395",
+    "path": "/portfolio/windscreen-replacers",
+    "type": "portfolio",
+    "title": "Windscreen Replacers | Portfolio | Nifty Websites Australia",
+    "seoTitle": "Windscreen Replacers | Portfolio | Nifty Websites Australia",
+    "seoDescription": "See how we built Windscreen Replacers' Sydney auto glass website in 2018 and redesigned it in 2026 with smart quote forms built to convert.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "category": "Portfolio",
+    "createdAt": "2026-09-23T19:10:41.252Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-23T19:10:41.252Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-396",
+    "path": "/about-us",
+    "type": "page",
+    "title": "About Nifty Websites Australia | Web Design Team",
+    "seoTitle": "About Nifty Websites Australia | Web Design Team",
+    "seoDescription": "Meet Nifty Websites Australia and founder Derek Ozen: an Australian web design team building sites that rank, convert and grow. Get a free quote.",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-09-23T19:10:41.252Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-09-23T19:10:41.252Z",
+    "updatedBy": "derek"
   }
 ]
