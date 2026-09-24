@@ -4904,10 +4904,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-24T01:59:20.906Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-24T01:59:20.906Z",
+    "updatedAt": "2026-09-24T01:59:53.537Z",
     "updatedBy": "joshua"
   }
 ]
