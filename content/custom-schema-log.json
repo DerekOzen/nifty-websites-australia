@@ -1,0 +1,771 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-muf3el87-j3fk",
+      "at": "2026-09-24T05:29:52.375Z",
+      "count": 190,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-916D215A"
+        },
+        {
+          "path": "/industries",
+          "newRecordId": "SCHEMA-67B52822"
+        },
+        {
+          "path": "/locations",
+          "newRecordId": "SCHEMA-469C5978"
+        },
+        {
+          "path": "/learn",
+          "newRecordId": "SCHEMA-DDCC9BDC"
+        },
+        {
+          "path": "/portfolio",
+          "newRecordId": "SCHEMA-5F232B0A"
+        },
+        {
+          "path": "/web-design",
+          "newRecordId": "SCHEMA-D7D96820"
+        },
+        {
+          "path": "/web-design/custom",
+          "newRecordId": "SCHEMA-66C8D82E"
+        },
+        {
+          "path": "/web-design/landing-pages",
+          "newRecordId": "SCHEMA-B1A1D403"
+        },
+        {
+          "path": "/web-design/redesign",
+          "newRecordId": "SCHEMA-83C03CF6"
+        },
+        {
+          "path": "/web-design/small-business",
+          "newRecordId": "SCHEMA-AD4B1B1E"
+        },
+        {
+          "path": "/web-development",
+          "newRecordId": "SCHEMA-5CE7D03E"
+        },
+        {
+          "path": "/web-development/wordpress",
+          "newRecordId": "SCHEMA-351C646A"
+        },
+        {
+          "path": "/web-development/woocommerce-shopify",
+          "newRecordId": "SCHEMA-898FC165"
+        },
+        {
+          "path": "/ecommerce-website-design",
+          "newRecordId": "SCHEMA-DA16149A"
+        },
+        {
+          "path": "/professional-web-design",
+          "newRecordId": "SCHEMA-16E703AB"
+        },
+        {
+          "path": "/seo-ready-website",
+          "newRecordId": "SCHEMA-ED62C2D9"
+        },
+        {
+          "path": "/web-design-and-seo",
+          "newRecordId": "SCHEMA-678DE9E4"
+        },
+        {
+          "path": "/lead-generation-websites",
+          "newRecordId": "SCHEMA-876583EB"
+        },
+        {
+          "path": "/conversion-rate-optimisation",
+          "newRecordId": "SCHEMA-C3BFCD44"
+        },
+        {
+          "path": "/full-stack-developer",
+          "newRecordId": "SCHEMA-12D3AB28"
+        },
+        {
+          "path": "/ai-website-builder",
+          "newRecordId": "SCHEMA-BC2219B5"
+        },
+        {
+          "path": "/website-security",
+          "newRecordId": "SCHEMA-8288A49F"
+        },
+        {
+          "path": "/domain-name",
+          "newRecordId": "SCHEMA-9508044F"
+        },
+        {
+          "path": "/hosting",
+          "newRecordId": "SCHEMA-8F38660D"
+        },
+        {
+          "path": "/hosting/business",
+          "newRecordId": "SCHEMA-B114A21E"
+        },
+        {
+          "path": "/hosting/care-plans",
+          "newRecordId": "SCHEMA-091EC285"
+        },
+        {
+          "path": "/website-design-reseller-service",
+          "newRecordId": "SCHEMA-F0D96C10"
+        },
+        {
+          "path": "/white-label",
+          "newRecordId": "SCHEMA-A8B0C436"
+        },
+        {
+          "path": "/white-label/become-a-partner",
+          "newRecordId": "SCHEMA-0828F370"
+        },
+        {
+          "path": "/white-label/pricing",
+          "newRecordId": "SCHEMA-9E6D4904"
+        },
+        {
+          "path": "/white-label/seo",
+          "newRecordId": "SCHEMA-3D7F3B7D"
+        },
+        {
+          "path": "/white-label/web-design",
+          "newRecordId": "SCHEMA-36571B8E"
+        },
+        {
+          "path": "/white-label/web-development",
+          "newRecordId": "SCHEMA-AA78CF39"
+        },
+        {
+          "path": "/website-for-pest-control-companies",
+          "newRecordId": "SCHEMA-6293A06C"
+        },
+        {
+          "path": "/website-for-physiotherapists",
+          "newRecordId": "SCHEMA-A6E89694"
+        },
+        {
+          "path": "/website-for-psychologists",
+          "newRecordId": "SCHEMA-5B5ED0C6"
+        },
+        {
+          "path": "/website-for-restaurants",
+          "newRecordId": "SCHEMA-D1503CA8"
+        },
+        {
+          "path": "/website-for-schools",
+          "newRecordId": "SCHEMA-0FF0DFE2"
+        },
+        {
+          "path": "/website-for-teachers",
+          "newRecordId": "SCHEMA-98B75F2C"
+        },
+        {
+          "path": "/website-for-tradies",
+          "newRecordId": "SCHEMA-E98F651F"
+        },
+        {
+          "path": "/website-for-wholesalers",
+          "newRecordId": "SCHEMA-4EA05264"
+        },
+        {
+          "path": "/websites-for-food-trucks",
+          "newRecordId": "SCHEMA-38824C50"
+        },
+        {
+          "path": "/best-website-builder-for-a-florist",
+          "newRecordId": "SCHEMA-CEA47E7D"
+        },
+        {
+          "path": "/best-website-builder-for-dropshipping",
+          "newRecordId": "SCHEMA-3E88F31F"
+        },
+        {
+          "path": "/best-website-builder-for-podcasts",
+          "newRecordId": "SCHEMA-4904C710"
+        },
+        {
+          "path": "/best-website-builder-for-therapists",
+          "newRecordId": "SCHEMA-DB0AB345"
+        },
+        {
+          "path": "/best-website-builder-for-videographers",
+          "newRecordId": "SCHEMA-2CB47F1B"
+        },
+        {
+          "path": "/best-websites-for-runners",
+          "newRecordId": "SCHEMA-3084DBBA"
+        },
+        {
+          "path": "/electrician-website-design",
+          "newRecordId": "SCHEMA-EAC3C1C3"
+        },
+        {
+          "path": "/mechanic-website-design",
+          "newRecordId": "SCHEMA-3DDC451E"
+        },
+        {
+          "path": "/website-for-accountants",
+          "newRecordId": "SCHEMA-B57C946E"
+        },
+        {
+          "path": "/website-for-aesthetic-clinics",
+          "newRecordId": "SCHEMA-32133272"
+        },
+        {
+          "path": "/website-for-architects",
+          "newRecordId": "SCHEMA-C79E656C"
+        },
+        {
+          "path": "/website-for-cafes",
+          "newRecordId": "SCHEMA-23A38F71"
+        },
+        {
+          "path": "/website-for-construction-companies",
+          "newRecordId": "SCHEMA-B3381A0D"
+        },
+        {
+          "path": "/website-for-dentists",
+          "newRecordId": "SCHEMA-70B87F55"
+        },
+        {
+          "path": "/website-for-distribution-companies",
+          "newRecordId": "SCHEMA-181C8536"
+        },
+        {
+          "path": "/website-for-finance-service",
+          "newRecordId": "SCHEMA-F9532018"
+        },
+        {
+          "path": "/website-for-handyman",
+          "newRecordId": "SCHEMA-FD1CCD73"
+        },
+        {
+          "path": "/website-for-insurance-service",
+          "newRecordId": "SCHEMA-807B0C55"
+        },
+        {
+          "path": "/website-for-it-service-providers",
+          "newRecordId": "SCHEMA-D212CA4C"
+        },
+        {
+          "path": "/website-for-lawyers",
+          "newRecordId": "SCHEMA-9C9B5337"
+        },
+        {
+          "path": "/website-for-logistics-companies",
+          "newRecordId": "SCHEMA-04BFCD64"
+        },
+        {
+          "path": "/website-for-manufacturers",
+          "newRecordId": "SCHEMA-8FA9115C"
+        },
+        {
+          "path": "/website-for-mining-companies",
+          "newRecordId": "SCHEMA-9DA76A0E"
+        },
+        {
+          "path": "/website-for-ndis-providers",
+          "newRecordId": "SCHEMA-B23C2C50"
+        },
+        {
+          "path": "/website-for-painters",
+          "newRecordId": "SCHEMA-FC293B2A"
+        },
+        {
+          "path": "/website-design-adelaide",
+          "newRecordId": "SCHEMA-FA4CFD89"
+        },
+        {
+          "path": "/website-design-albany",
+          "newRecordId": "SCHEMA-28BC75AF"
+        },
+        {
+          "path": "/website-design-albury",
+          "newRecordId": "SCHEMA-AE4A814B"
+        },
+        {
+          "path": "/website-design-alice-springs",
+          "newRecordId": "SCHEMA-7CF1BDEB"
+        },
+        {
+          "path": "/website-design-armidale",
+          "newRecordId": "SCHEMA-00C3C700"
+        },
+        {
+          "path": "/website-design-ballarat",
+          "newRecordId": "SCHEMA-0C0DFD58"
+        },
+        {
+          "path": "/website-design-bathurst",
+          "newRecordId": "SCHEMA-289569B2"
+        },
+        {
+          "path": "/website-design-bendigo",
+          "newRecordId": "SCHEMA-7581D1F7"
+        },
+        {
+          "path": "/website-design-bomaderry",
+          "newRecordId": "SCHEMA-4D9F9E12"
+        },
+        {
+          "path": "/website-design-boulder",
+          "newRecordId": "SCHEMA-04EB2B65"
+        },
+        {
+          "path": "/website-design-bowral",
+          "newRecordId": "SCHEMA-55C2AB71"
+        },
+        {
+          "path": "/website-design-brisbane",
+          "newRecordId": "SCHEMA-DDC25F26"
+        },
+        {
+          "path": "/website-design-bunbury",
+          "newRecordId": "SCHEMA-39FBE142"
+        },
+        {
+          "path": "/website-design-bundaberg",
+          "newRecordId": "SCHEMA-3EE15F05"
+        },
+        {
+          "path": "/website-design-busselton",
+          "newRecordId": "SCHEMA-C144CE42"
+        },
+        {
+          "path": "/website-design-cairns",
+          "newRecordId": "SCHEMA-9C8C15D7"
+        },
+        {
+          "path": "/website-design-canberra",
+          "newRecordId": "SCHEMA-E4F0DE18"
+        },
+        {
+          "path": "/website-design-central-coast",
+          "newRecordId": "SCHEMA-9B490200"
+        },
+        {
+          "path": "/website-design-cessnock",
+          "newRecordId": "SCHEMA-9984231B"
+        },
+        {
+          "path": "/website-design-coffs-harbour",
+          "newRecordId": "SCHEMA-AA6BF940"
+        },
+        {
+          "path": "/website-design-darwin",
+          "newRecordId": "SCHEMA-0551C51A"
+        },
+        {
+          "path": "/website-design-devonport",
+          "newRecordId": "SCHEMA-4EC99A80"
+        },
+        {
+          "path": "/website-design-dubbo",
+          "newRecordId": "SCHEMA-3865D415"
+        },
+        {
+          "path": "/website-design-gawler",
+          "newRecordId": "SCHEMA-36426359"
+        },
+        {
+          "path": "/website-design-geelong",
+          "newRecordId": "SCHEMA-CE035D40"
+        },
+        {
+          "path": "/website-design-geraldton",
+          "newRecordId": "SCHEMA-53B2E786"
+        },
+        {
+          "path": "/website-design-gladstone",
+          "newRecordId": "SCHEMA-15AFCBFF"
+        },
+        {
+          "path": "/website-design-gold-coast",
+          "newRecordId": "SCHEMA-CE259B68"
+        },
+        {
+          "path": "/website-design-goulburn",
+          "newRecordId": "SCHEMA-365F20FB"
+        },
+        {
+          "path": "/website-design-hobart",
+          "newRecordId": "SCHEMA-ADA46D53"
+        },
+        {
+          "path": "/website-design-kalgoorlie",
+          "newRecordId": "SCHEMA-3634B244"
+        },
+        {
+          "path": "/website-design-launceston",
+          "newRecordId": "SCHEMA-1CBF1D80"
+        },
+        {
+          "path": "/website-design-lismore",
+          "newRecordId": "SCHEMA-98FCC78C"
+        },
+        {
+          "path": "/website-design-mackay",
+          "newRecordId": "SCHEMA-0E5EE177"
+        },
+        {
+          "path": "/website-design-maitland",
+          "newRecordId": "SCHEMA-0F9EE245"
+        },
+        {
+          "path": "/website-design-maryborough",
+          "newRecordId": "SCHEMA-23D3286A"
+        },
+        {
+          "path": "/website-design-melbourne",
+          "newRecordId": "SCHEMA-9B507C7D"
+        },
+        {
+          "path": "/website-design-melton",
+          "newRecordId": "SCHEMA-96334D8C"
+        },
+        {
+          "path": "/website-design-mildura",
+          "newRecordId": "SCHEMA-FB7157FE"
+        },
+        {
+          "path": "/website-design-mittagong",
+          "newRecordId": "SCHEMA-59FB3556"
+        },
+        {
+          "path": "/website-design-mooroopna",
+          "newRecordId": "SCHEMA-103EF08C"
+        },
+        {
+          "path": "/website-design-mount-gambier",
+          "newRecordId": "SCHEMA-CF3D48CA"
+        },
+        {
+          "path": "/website-design-newcastle",
+          "newRecordId": "SCHEMA-EFE5D846"
+        },
+        {
+          "path": "/website-design-nowra",
+          "newRecordId": "SCHEMA-9FB28CDE"
+        },
+        {
+          "path": "/website-design-orange",
+          "newRecordId": "SCHEMA-526ECAD3"
+        },
+        {
+          "path": "/website-design-perth",
+          "newRecordId": "SCHEMA-8E2DD267"
+        },
+        {
+          "path": "/website-design-port-macquarie",
+          "newRecordId": "SCHEMA-D618F638"
+        },
+        {
+          "path": "/website-design-queanbeyan",
+          "newRecordId": "SCHEMA-9DA11E61"
+        },
+        {
+          "path": "/website-design-rockhampton",
+          "newRecordId": "SCHEMA-97320B6E"
+        },
+        {
+          "path": "/website-design-shepparton",
+          "newRecordId": "SCHEMA-E3E96D63"
+        },
+        {
+          "path": "/website-design-sunbury",
+          "newRecordId": "SCHEMA-863C6543"
+        },
+        {
+          "path": "/website-design-sunshine-coast",
+          "newRecordId": "SCHEMA-7818782A"
+        },
+        {
+          "path": "/website-design-sydney",
+          "newRecordId": "SCHEMA-6E11798D"
+        },
+        {
+          "path": "/website-design-tamworth",
+          "newRecordId": "SCHEMA-BDDA8E2F"
+        },
+        {
+          "path": "/website-design-toowoomba",
+          "newRecordId": "SCHEMA-4C0EBF37"
+        },
+        {
+          "path": "/website-design-townsville",
+          "newRecordId": "SCHEMA-7DE41C9D"
+        },
+        {
+          "path": "/website-design-traralgon",
+          "newRecordId": "SCHEMA-8B2B977D"
+        },
+        {
+          "path": "/website-design-tweed-heads",
+          "newRecordId": "SCHEMA-3E60517F"
+        },
+        {
+          "path": "/website-design-wagga-wagga",
+          "newRecordId": "SCHEMA-07738654"
+        },
+        {
+          "path": "/website-design-warrnambool",
+          "newRecordId": "SCHEMA-2AE6AB0A"
+        },
+        {
+          "path": "/website-design-whyalla",
+          "newRecordId": "SCHEMA-0664A6AA"
+        },
+        {
+          "path": "/website-design-wodonga",
+          "newRecordId": "SCHEMA-6A24FD76"
+        },
+        {
+          "path": "/website-design-wollongong",
+          "newRecordId": "SCHEMA-1CD9230C"
+        },
+        {
+          "path": "/10-key-steps-to-building-a-great-small-business-website",
+          "newRecordId": "SCHEMA-123F4D90"
+        },
+        {
+          "path": "/how-can-architects-showcase-projects-online",
+          "newRecordId": "SCHEMA-497227DE"
+        },
+        {
+          "path": "/what-are-the-best-web-animation-tools",
+          "newRecordId": "SCHEMA-7C46BA17"
+        },
+        {
+          "path": "/what-makes-a-business-growth-program-effective",
+          "newRecordId": "SCHEMA-62A7E0FD"
+        },
+        {
+          "path": "/core-web-vitals-in-2026-whats-new-and-how-aussie-businesses-can-stay-fast",
+          "newRecordId": "SCHEMA-A0C56319"
+        },
+        {
+          "path": "/do-creative-website-designs-improve-seo-and-user-engagement",
+          "newRecordId": "SCHEMA-26355730"
+        },
+        {
+          "path": "/how-can-you-implement-a-creative-homepage-design",
+          "newRecordId": "SCHEMA-1A1DF799"
+        },
+        {
+          "path": "/custom-vs-template-websites-in-2026-what-aussie-smes-need-to-know",
+          "newRecordId": "SCHEMA-EAF344E0"
+        },
+        {
+          "path": "/does-your-website-need-a-content-audit-for-better-performance",
+          "newRecordId": "SCHEMA-63763F8F"
+        },
+        {
+          "path": "/do-web-developers-use-google-web-designers",
+          "newRecordId": "SCHEMA-7DD6D5F8"
+        },
+        {
+          "path": "/what-is-the-first-step-in-the-web-design-process",
+          "newRecordId": "SCHEMA-57F3D735"
+        },
+        {
+          "path": "/how-does-ux-shape-web-design-for-manufacturing",
+          "newRecordId": "SCHEMA-DBA44D42"
+        },
+        {
+          "path": "/how-do-you-pick-the-right-dental-website-templates",
+          "newRecordId": "SCHEMA-FE296C84"
+        },
+        {
+          "path": "/how-important-is-a-website-to-a-trade-business",
+          "newRecordId": "SCHEMA-D1022FDF"
+        },
+        {
+          "path": "/how-much-does-it-cost-to-build-a-website-for-a-small-business-in-australia",
+          "newRecordId": "SCHEMA-B054ABF1"
+        },
+        {
+          "path": "/how-professional-website-development-helps-australian-businesses-grow-online",
+          "newRecordId": "SCHEMA-78184829"
+        },
+        {
+          "path": "/how-to-pick-a-website-design-agency-in-australia-in-2026-without-getting-burnt",
+          "newRecordId": "SCHEMA-77191B95"
+        },
+        {
+          "path": "/how-to-troubleshoot-and-fix-broken-links-or-missing-pages-with-the-chrome-broken-link-checker",
+          "newRecordId": "SCHEMA-8E72DE95"
+        },
+        {
+          "path": "/why-is-the-best-manufacturing-website-design-essential-today",
+          "newRecordId": "SCHEMA-BBAA8A11"
+        },
+        {
+          "path": "/how-to-design-a-minimalist-website-showcasing-videos",
+          "newRecordId": "SCHEMA-D93DB3AA"
+        },
+        {
+          "path": "/which-features-of-mobile-first-can-make-cool-websites",
+          "newRecordId": "SCHEMA-3A0997D5"
+        },
+        {
+          "path": "/why-is-mobile-web-design-key-for-restaurant-engagement",
+          "newRecordId": "SCHEMA-66105EEE"
+        },
+        {
+          "path": "/what-does-professional-website-design-in-australia-actually-include",
+          "newRecordId": "SCHEMA-698064C3"
+        },
+        {
+          "path": "/is-it-necessary-to-have-a-blog-on-your-restaurant-website",
+          "newRecordId": "SCHEMA-9F090C80"
+        },
+        {
+          "path": "/when-is-the-right-time-to-redesign-a-website",
+          "newRecordId": "SCHEMA-B8BDE8DE"
+        },
+        {
+          "path": "/can-a-simple-website-design-boost-food-truck-sales",
+          "newRecordId": "SCHEMA-96A363D4"
+        },
+        {
+          "path": "/what-makes-a-tradesmens-website-stand-out",
+          "newRecordId": "SCHEMA-991ADA3C"
+        },
+        {
+          "path": "/why-every-australian-tradie-needs-a-professional-website-in-2026",
+          "newRecordId": "SCHEMA-BFC7277C"
+        },
+        {
+          "path": "/whats-the-best-layout-for-an-easy-to-read-truck-food-menu",
+          "newRecordId": "SCHEMA-AC7AAFF2"
+        },
+        {
+          "path": "/why-should-you-use-visual-content-on-your-restaurant-website",
+          "newRecordId": "SCHEMA-5F81946D"
+        },
+        {
+          "path": "/website-maintenance-checklist-for-2026-monthly-tasks-most-aussie-start-ups-forget",
+          "newRecordId": "SCHEMA-7EE22775"
+        },
+        {
+          "path": "/what-makes-a-good-restaurant-website-design",
+          "newRecordId": "SCHEMA-8D67C5DE"
+        },
+        {
+          "path": "/what-makes-a-website-high-converting-practical-ux-tweaks-for-aussie-smes",
+          "newRecordId": "SCHEMA-95DAB9B9"
+        },
+        {
+          "path": "/whats-a-cms-how-is-it-used-in-web-design",
+          "newRecordId": "SCHEMA-1842BB96"
+        },
+        {
+          "path": "/which-website-design-ideas-improve-navigation",
+          "newRecordId": "SCHEMA-509A48E2"
+        },
+        {
+          "path": "/why-is-a-website-development-strategy-key-to-growth",
+          "newRecordId": "SCHEMA-DC4CD6E5"
+        },
+        {
+          "path": "/best-wordpress-woocommerce-shopify-developers-australia",
+          "newRecordId": "SCHEMA-4BCA4D11"
+        },
+        {
+          "path": "/is-it-worth-investing-in-a-custom-food-truck-website",
+          "newRecordId": "SCHEMA-E9DECE11"
+        },
+        {
+          "path": "/portfolio/sege-seats",
+          "newRecordId": "SCHEMA-E9B00AA6"
+        },
+        {
+          "path": "/portfolio/mi-painting",
+          "newRecordId": "SCHEMA-52DB7B0A"
+        },
+        {
+          "path": "/portfolio/a-bargain-gardener",
+          "newRecordId": "SCHEMA-6B8B1EA9"
+        },
+        {
+          "path": "/portfolio/ac-cleaning",
+          "newRecordId": "SCHEMA-D161E511"
+        },
+        {
+          "path": "/portfolio/bkk-australia",
+          "newRecordId": "SCHEMA-8C518052"
+        },
+        {
+          "path": "/portfolio/attila-natural-stone",
+          "newRecordId": "SCHEMA-0A472A4E"
+        },
+        {
+          "path": "/portfolio/kids-party-house",
+          "newRecordId": "SCHEMA-8391A002"
+        },
+        {
+          "path": "/portfolio/core-driving-school",
+          "newRecordId": "SCHEMA-3249F03F"
+        },
+        {
+          "path": "/portfolio/meliora-projects",
+          "newRecordId": "SCHEMA-E0F8A290"
+        },
+        {
+          "path": "/portfolio/pause-skin-clinic",
+          "newRecordId": "SCHEMA-1F83AA3F"
+        },
+        {
+          "path": "/portfolio/bluechip-it",
+          "newRecordId": "SCHEMA-1A1A63A8"
+        },
+        {
+          "path": "/portfolio/rosella-finance",
+          "newRecordId": "SCHEMA-750010F7"
+        },
+        {
+          "path": "/portfolio/asv-contractors",
+          "newRecordId": "SCHEMA-FA54C749"
+        },
+        {
+          "path": "/portfolio/my-event-match",
+          "newRecordId": "SCHEMA-DA2FC8E5"
+        },
+        {
+          "path": "/portfolio/bush-winch",
+          "newRecordId": "SCHEMA-CF5E6DAC"
+        },
+        {
+          "path": "/portfolio/muscle-up",
+          "newRecordId": "SCHEMA-20D60812"
+        },
+        {
+          "path": "/portfolio/windscreen-replacers",
+          "newRecordId": "SCHEMA-66450F41"
+        },
+        {
+          "path": "/about-us",
+          "newRecordId": "SCHEMA-90DAD48F"
+        },
+        {
+          "path": "/contact-us",
+          "newRecordId": "SCHEMA-15B05CE4"
+        },
+        {
+          "path": "/pricing",
+          "newRecordId": "SCHEMA-5ED11459"
+        },
+        {
+          "path": "/process",
+          "newRecordId": "SCHEMA-B4CD0C8B"
+        },
+        {
+          "path": "/reviews",
+          "newRecordId": "SCHEMA-5A005973"
+        }
+      ]
+    }
+  ]
+}
