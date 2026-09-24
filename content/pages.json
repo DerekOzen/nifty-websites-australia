@@ -364,11 +364,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-15T05:14:30.251Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-24T01:57:27.010Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-153",
