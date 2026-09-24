@@ -4888,11 +4888,13 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-24T04:47:39.280Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-24T13:49:18.429Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-23T23:31:48.636Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": true,
+    "featuredImage": "/uploads/featured-home-l8qup.jpg",
+    "featuredImageAlt": "Nifty web designer building a high-ranking website"
   },
   {
     "id": "pg-400",
