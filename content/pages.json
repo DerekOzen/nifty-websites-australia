@@ -11,10 +11,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:52:55.572Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-13T22:42:00.720Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/sege-seats-main-hero-44778902.jpg",
+    "featuredImageAlt": "Sege Seats website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-152",
