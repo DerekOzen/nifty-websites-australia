@@ -1229,10 +1229,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-24T14:49:17.749Z",
+    "updatedAt": "2026-09-25T06:46:29.595Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-16T09:43:30.525Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/contact-nifty-websites-australia-0a7ec298.png",
+    "featuredImageAlt": "Nifty Websites Australia web design team ready to help"
   },
   {
     "id": "pg-247",
