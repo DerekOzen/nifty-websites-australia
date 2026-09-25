@@ -1179,8 +1179,10 @@
     "status": "published",
     "createdAt": "2026-09-15T20:51:32.580Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T19:05:38.791Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T06:55:00.265Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/web-design-australia-by-nifty-websites-a-29b4c785.jpg",
+    "featuredImageAlt": "Web development service image"
   },
   {
     "id": "pg-187",
