@@ -199,10 +199,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:52:38.855Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T03:49:10.686Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/pause-skin-cliinic-hero-2-5cdc9aee.jpg",
+    "featuredImageAlt": "Pause Cosmetic Skin Clinic website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-164",
