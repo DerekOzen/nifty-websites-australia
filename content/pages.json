@@ -4129,8 +4129,10 @@
     "status": "published",
     "createdAt": "2026-09-21T05:29:52.721Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-25T06:46:45.168Z",
+    "updatedBy": "derek",
+    "featuredImage": "https://niftywebsites.com.au/wp-content/uploads/2026/05/Core-Web-Vitals-in-2026-Whats-New-and-How-Aussie-Businesses-Can-Stay-Fast.jpg",
+    "featuredImageAlt": "Core Web Vitals dashboard on laptop showing speed metrics for Aussie businesses"
   },
   {
     "id": "pg-352",
