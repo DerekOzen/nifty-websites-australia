@@ -157,10 +157,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:51:50.755Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T03:15:53.518Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/core-driving-school-hero-2-c278a08a.jpg",
+    "featuredImageAlt": "Core Driving School website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-162",
