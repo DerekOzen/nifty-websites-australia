@@ -1051,8 +1051,10 @@
     "status": "published",
     "createdAt": "2026-09-15T20:51:06.334Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T05:56:36.524Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-25T06:53:28.776Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/professional-web-design-australia-by-nif-46b2e142.jpg",
+    "featuredImageAlt": "Professional web design example"
   },
   {
     "id": "pg-180",
