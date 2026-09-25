@@ -140,10 +140,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:51:57.578Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T03:02:39.317Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/kids-party-house-hero-2-638fc855.jpg",
+    "featuredImageAlt": "Kids Party House website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-161",
