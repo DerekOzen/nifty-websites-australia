@@ -4820,10 +4820,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-24T03:24:26.577Z",
+    "updatedAt": "2026-09-25T06:53:54.386Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-22T21:04:50.736Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/54565a459-newniftyhubaiconceptlogv5-2-25a3f7fa.png",
+    "featuredImageAlt": "Niftyhub.ai logo"
   },
   {
     "id": "pg-389",
