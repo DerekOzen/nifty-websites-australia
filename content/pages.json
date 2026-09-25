@@ -1107,8 +1107,10 @@
     "status": "published",
     "createdAt": "2026-09-15T20:51:32.580Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T05:58:19.762Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-25T06:54:20.222Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/custom-website-build-by-nifty-websites-a-e7035df1.jpg",
+    "featuredImageAlt": "Custom website design example"
   },
   {
     "id": "pg-183",
