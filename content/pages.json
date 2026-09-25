@@ -4740,10 +4740,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-23T19:34:15.625Z",
+    "updatedAt": "2026-09-25T06:45:05.800Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-22T22:51:03.913Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/nify-ai-website-builder-dashboard-v1-8c80c7c4.jpg",
+    "featuredImageAlt": "Nifty Websites AI live editor"
   },
   {
     "id": "pg-391",
