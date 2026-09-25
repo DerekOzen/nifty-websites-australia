@@ -1125,8 +1125,10 @@
     "status": "published",
     "createdAt": "2026-09-15T20:51:32.580Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T05:58:54.079Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-25T06:54:30.658Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/mountains-blue-landing-page-by-nifty-web-30c9cd6c.jpg",
+    "featuredImageAlt": "Landing page design example"
   },
   {
     "id": "pg-184",
