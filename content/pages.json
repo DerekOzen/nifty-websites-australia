@@ -102,10 +102,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:51:27.413Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T01:47:37.171Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/bkk-australia-hero-2-926efaae.jpg",
+    "featuredImageAlt": "BKK Australia website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-159",
