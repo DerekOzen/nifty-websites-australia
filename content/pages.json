@@ -64,10 +64,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:50:50.463Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T00:56:58.488Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/a-bargain-gardener-hero-2-eb96c48b.jpg",
+    "featuredImageAlt": "A Bargain Gardener website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-157",
