@@ -1197,8 +1197,10 @@
     "status": "published",
     "createdAt": "2026-09-15T20:51:32.580Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-24T20:43:29.088Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-09-25T06:55:10.388Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/stylex-balloons-website-design-v1-by-nif-f1025643.jpg",
+    "featuredImageAlt": "WooCommerce and Shopify development example"
   },
   {
     "id": "pg-188",
