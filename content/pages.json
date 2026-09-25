@@ -4774,8 +4774,10 @@
     "status": "published",
     "createdAt": "2026-09-21T05:36:50.206Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-25T07:02:28.901Z",
+    "updatedBy": "derek",
+    "featuredImage": "https://niftywebsites.com.au/wp-content/uploads/2026/06/Website-Maintenance-Checklist-for-2026-Monthly-Tasks-Most-Aussie-Start-Ups-Forget.jpg",
+    "featuredImageAlt": "Website maintenance dashboard showing performance metrics, security status, backup verification and SEO health."
   },
   {
     "id": "pg-379",
