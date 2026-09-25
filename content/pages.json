@@ -890,10 +890,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-23T05:51:38.327Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:54:02.359Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-15T20:48:01.592Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/asv-contractors-hero-2-677f55e6.jpg",
+    "featuredImageAlt": "Web design Australia example by Nifty Websites Australia"
   },
   {
     "id": "pg-170",
