@@ -45,10 +45,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-24T00:14:24.716Z",
+    "updatedAt": "2026-09-25T06:50:39.062Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-14T00:52:20.729Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/portolio-by-nifty-websites-australia-c0d34f52.jpg",
+    "featuredImageAlt": "Nifty Websites Australia portfolio"
   },
   {
     "id": "pg-156",
