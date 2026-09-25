@@ -237,10 +237,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:52:47.375Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T04:11:15.628Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/rosella-finance-hero-2-79b13d33.jpg",
+    "featuredImageAlt": "Rosella Finance website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-166",
