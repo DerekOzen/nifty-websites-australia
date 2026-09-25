@@ -119,10 +119,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:51:20.159Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T02:30:45.727Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/attila-natural-stone-hero-2-80e38256.jpg",
+    "featuredImageAlt": "Attila's Natural Stone website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-160",
