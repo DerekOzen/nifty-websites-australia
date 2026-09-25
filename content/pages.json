@@ -271,10 +271,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:52:31.654Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-14T04:42:59.036Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/my-event-match-hero-2-3a29c6a6.jpg",
+    "featuredImageAlt": "My Event Match website designed by Nifty Websites Australia"
   },
   {
     "id": "pg-143",
