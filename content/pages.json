@@ -1161,8 +1161,10 @@
     "status": "published",
     "createdAt": "2026-09-15T20:51:32.580Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T06:01:16.563Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-09-25T06:54:49.461Z",
+    "updatedBy": "derek",
+    "featuredImage": "/uploads/jims-rendering-sydney-website-by-nifty-w-603ba566.jpg",
+    "featuredImageAlt": "Small business website example"
   },
   {
     "id": "pg-186",
