@@ -4030,10 +4030,12 @@
     "footerPartId": "footer-4",
     "category": "Portfolio",
     "status": "published",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-25T06:51:43.415Z",
+    "updatedBy": "derek",
     "createdAt": "2026-09-21T00:49:49.235Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/bush-winch-responsive-4f476492.jpg",
+    "featuredImageAlt": "Bush Winch custom eCommerce website designed and developed by Nifty Websites Australia"
   },
   {
     "id": "pg-344",
