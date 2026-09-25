@@ -416,9 +416,11 @@
     "status": "published",
     "createdAt": "2026-09-15T05:14:30.251Z",
     "createdBy": "derek",
-    "updatedAt": "2026-09-23T03:47:51.806Z",
-    "updatedBy": "joshua",
-    "category": "Other"
+    "updatedAt": "2026-09-25T10:33:12.886Z",
+    "updatedBy": "derek",
+    "category": "Other",
+    "featuredImage": "/uploads/full-stack-developer-by-nifty-websites-a-10302a78.jpg",
+    "featuredImageAlt": "Start your project, the full picture."
   },
   {
     "id": "pg-154",
