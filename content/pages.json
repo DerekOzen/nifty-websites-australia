@@ -4973,11 +4973,13 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-24T00:00:02.218Z",
+    "updatedAt": "2026-09-25T06:53:12.235Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-23T23:16:47.322Z",
     "createdBy": "derek",
-    "isHome": false
+    "isHome": false,
+    "featuredImage": "/uploads/starter-website-package-f95b072e.png",
+    "featuredImageAlt": "Starter package image"
   },
   {
     "id": "pg-398",
