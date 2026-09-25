@@ -4892,10 +4892,12 @@
     "headerPartId": "header-3",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-23T23:30:23.422Z",
+    "updatedAt": "2026-09-25T06:46:14.527Z",
     "updatedBy": "derek",
     "createdAt": "2026-09-23T23:28:00.887Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/starter-website-package-f95b072e.png",
+    "featuredImageAlt": "Starter package image"
   },
   {
     "id": "pg-399",
