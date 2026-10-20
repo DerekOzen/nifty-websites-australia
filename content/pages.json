@@ -5318,12 +5318,14 @@
     "seoTitle": "What Should an Electrician's Website Include? | Nifty Websites",
     "seoDescription": "The features every Australian electrician's website needs to win more jobs - services, licence, local SEO, reviews and clear CTAs. A practical checklist from Nifty Websites.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-10-20T01:02:43.575Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:02:43.575Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-20T01:17:46.840Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/what-should-an-electrician-s-website-inc-d39f8deb.jpg",
+    "featuredImageAlt": "Clean electrician website mockup shown on a mobile phone"
   }
 ]
