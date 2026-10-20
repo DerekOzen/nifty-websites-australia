@@ -5354,13 +5354,15 @@
     "seoTitle": "How Long Does It Take to Build a Website in Australia? | Nifty Websites",
     "seoDescription": "What really sets a website build timeline in Australia: content readiness, page count, eCommerce and approvals. A realistic sequence from discovery to launch.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-10-20T01:39:37.235Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:39:37.235Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-20T01:45:46.442Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/how-long-does-it-take-to-build-a-busines-5eded4ea.jpg",
+    "featuredImageAlt": "Business website design displayed on a desktop monitor in a professional workspace"
   },
   {
     "id": "pg-409",
