@@ -5436,5 +5436,21 @@
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/what-agencies-should-ask-before-picking--573c66f0.jpg",
     "featuredImageAlt": "Digital marketing agency workspace with a laptop displaying website analytics and marketing performance charts."
+  },
+  {
+    "id": "pg-413",
+    "path": "/learn",
+    "type": "page",
+    "title": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
+    "seoTitle": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
+    "seoDescription": "Practical web design, SEO, speed, eCommerce and website maintenance guides for Australian businesses, from Nifty Websites Australia.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-20T03:07:58.965Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-10-20T03:07:58.965Z",
+    "updatedBy": "gabriel"
   }
 ]
