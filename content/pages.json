@@ -4959,14 +4959,15 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-09-21T05:36:50.206Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-25T10:33:03.674Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-10-20T03:07:02.318Z",
+    "updatedBy": "gabriel",
     "category": "Other",
     "featuredImage": "/uploads/web-design-boulder-wa-goldfields-web-design-by-nifty-websites-australia.jpg",
-    "featuredImageAlt": "Web design & SEO guides."
+    "featuredImageAlt": "Web design & SEO guides.",
+    "isHome": false
   },
   {
     "id": "pg-387",
