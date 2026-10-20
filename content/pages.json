@@ -5228,13 +5228,15 @@
     "seoTitle": "Signs You've Outgrown Your Website | Enterprise Web Design",
     "seoDescription": "Slow, hard to update, can't integrate? The signs your business needs an enterprise website - and how to plan the rebuild. From Nifty Websites Australia.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-10-20T01:02:43.575Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:02:43.575Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-20T01:04:43.147Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/signs-your-business-has-outgrown-its-web-db80f60b.jpg",
+    "featuredImageAlt": "Business team reviewing website performance dashboards on a large screen"
   },
   {
     "id": "pg-402",
