@@ -5266,10 +5266,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-20T01:02:43.575Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:08:59.815Z",
+    "updatedAt": "2026-10-20T02:32:44.070Z",
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/full-stack-vs-front-end-developer-which--b72b8e7d.jpg",
     "featuredImageAlt": "Developer working across front-end and back-end code on a website build"
