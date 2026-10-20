@@ -5390,13 +5390,15 @@
     "seoTitle": "Why a Page-One Ranking Can Still Bring You No Clicks | Nifty Websites",
     "seoDescription": "Ranking and clicking are different problems. Truncated titles, borrowed descriptions, AI overviews and the wrong query all cost clicks. How to tell which one it is.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-10-20T01:39:37.235Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:39:37.235Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-20T01:58:01.950Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/why-a-page-one-ranking-can-still-bring-y-1275eb72.jpg",
+    "featuredImageAlt": "Minimalist vector illustration showing a laptop displaying a digital analytics line chart with rising impressions and zero clicks."
   },
   {
     "id": "pg-411",
