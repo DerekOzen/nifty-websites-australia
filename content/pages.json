@@ -5302,10 +5302,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-20T01:02:43.575Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:13:23.610Z",
+    "updatedAt": "2026-10-20T02:36:54.428Z",
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/woocommerce-developer-costs-in-australia-02f196c5.jpg",
     "featuredImageAlt": "WooCommerce online store shown on a laptop and phone"
