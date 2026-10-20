@@ -5374,10 +5374,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-20T01:39:37.235Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:54:11.042Z",
+    "updatedAt": "2026-10-20T02:43:16.583Z",
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/what-actually-breaks-on-a-website-when-n-4442b4c2.jpg",
     "featuredImageAlt": "Website maintenance dashboard showing potential website issues"
