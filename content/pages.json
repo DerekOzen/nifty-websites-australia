@@ -5230,10 +5230,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-20T01:02:43.575Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:04:43.147Z",
+    "updatedAt": "2026-10-20T02:25:46.025Z",
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/signs-your-business-has-outgrown-its-web-db80f60b.jpg",
     "featuredImageAlt": "Business team reviewing website performance dashboards on a large screen"
