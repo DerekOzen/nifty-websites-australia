@@ -5426,12 +5426,14 @@
     "seoTitle": "Questions to Ask Before Picking a White Label Partner | Nifty Websites",
     "seoDescription": "Five questions Australian agencies should ask a white label web partner before the first build: client contact, support, ownership, revisions and limits.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-10-20T01:39:37.235Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:39:37.235Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-20T02:05:25.677Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/what-agencies-should-ask-before-picking--573c66f0.jpg",
+    "featuredImageAlt": "Digital marketing agency workspace with a laptop displaying website analytics and marketing performance charts."
   }
 ]
