@@ -5372,13 +5372,15 @@
     "seoTitle": "What Breaks on a Website When Nobody Looks After It | Nifty Websites",
     "seoDescription": "Unmaintained websites fail quietly: silent form failures, untested backups, outdated plugins and creeping load times. What to check, and how often.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-10-20T01:39:37.235Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:39:37.235Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-20T01:54:11.042Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/what-actually-breaks-on-a-website-when-n-4442b4c2.jpg",
+    "featuredImageAlt": "Website maintenance dashboard showing potential website issues"
   },
   {
     "id": "pg-410",
