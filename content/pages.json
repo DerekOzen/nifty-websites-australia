@@ -5282,13 +5282,15 @@
     "seoTitle": "Wholesaler & B2B Supplier Website Guide (Australia) | Nifty Websites",
     "seoDescription": "What a wholesaler's website needs - trade pricing, catalogues, quote flows and integrations - plus what drives the cost. A B2B guide from Nifty Websites Australia.",
     "layout": "mockup",
-    "headerPartId": "header-4",
+    "headerPartId": null,
     "footerPartId": "footer-4",
     "status": "draft",
     "createdAt": "2026-10-20T01:02:43.575Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T01:02:43.575Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-10-20T01:10:36.479Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/website-costs-and-features-for-wholesale-6853a3f7.jpg",
+    "featuredImageAlt": "B2B buyer placing a wholesale order on a laptop in a warehouse"
   },
   {
     "id": "pg-405",
