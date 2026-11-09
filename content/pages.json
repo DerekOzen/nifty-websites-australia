@@ -5504,8 +5504,10 @@
     "status": "draft",
     "createdAt": "2026-11-09T00:46:25.227Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-11-09T00:46:25.227Z",
-    "updatedBy": "gabriel"
+    "updatedAt": "2026-11-09T22:34:17.863Z",
+    "updatedBy": "gabriel",
+    "featuredImage": "/uploads/what-is-a-ssl-certificate-ssl-explained--adb37f4a.jpg",
+    "featuredImageAlt": "SSL certificate protecting a business website through a secure HTTPS connection."
   },
   {
     "id": "pg-417",
