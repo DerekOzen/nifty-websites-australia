@@ -5565,7 +5565,7 @@
   },
   {
     "id": "pg-420",
-    "path": "/website-pricing-plans-nifty-websites-australia-new",
+    "path": "/pricing",
     "type": "page",
     "title": "Website Pricing & Plans | Nifty Websites Australia",
     "seoTitle": "Website Pricing & Plans | Nifty Websites Australia",
@@ -5573,10 +5573,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-12T23:50:11.206Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-12T23:50:11.206Z",
+    "updatedAt": "2026-11-12T23:51:45.552Z",
     "updatedBy": "joshua"
   }
 ]
