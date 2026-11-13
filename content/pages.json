@@ -5608,10 +5608,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-13T00:18:04.939Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T00:18:04.939Z",
+    "updatedAt": "2026-11-13T00:23:18.891Z",
     "updatedBy": "joshua"
   },
   {
@@ -5641,10 +5641,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-13T00:18:04.939Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T00:18:04.939Z",
+    "updatedAt": "2026-11-13T00:23:18.891Z",
     "updatedBy": "joshua"
   }
 ]
