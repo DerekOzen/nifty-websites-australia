@@ -5627,9 +5627,11 @@
     "status": "published",
     "createdAt": "2026-11-13T00:18:04.939Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T00:22:22.726Z",
+    "updatedAt": "2026-11-13T00:28:44.039Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": true,
+    "featuredImageAlt": "Nifty web designer building a high-ranking website",
+    "featuredImage": "/uploads/featured-home-l8qup.jpg"
   },
   {
     "id": "pg-424",
