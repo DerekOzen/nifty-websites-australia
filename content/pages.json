@@ -5574,11 +5574,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-12T23:50:11.206Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-12T23:51:45.552Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T00:17:52.243Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-421",
@@ -5590,10 +5591,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-13T00:00:10.352Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T00:04:01.893Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T00:17:52.243Z",
+    "updatedBy": "joshua",
+    "isHome": false
   }
 ]
