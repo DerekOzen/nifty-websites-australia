@@ -5187,7 +5187,7 @@
   },
   {
     "id": "pg-399",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Web Design Agency Australia | Built to Rank & Convert | Nifty Websites",
@@ -5196,11 +5196,11 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
     "status": "published",
-    "updatedAt": "2026-09-24T13:49:18.429Z",
-    "updatedBy": "derek",
+    "updatedAt": "2026-11-13T00:22:22.726Z",
+    "updatedBy": "joshua",
     "createdAt": "2026-09-23T23:31:48.636Z",
     "createdBy": "derek",
-    "isHome": true,
+    "isHome": false,
     "featuredImage": "/uploads/featured-home-l8qup.jpg",
     "featuredImageAlt": "Nifty web designer building a high-ranking website"
   },
@@ -5616,7 +5616,7 @@
   },
   {
     "id": "pg-423",
-    "path": "/web-design-agency-australia-built-to-rank-convert-nifty-websites-new",
+    "path": "/",
     "type": "page",
     "title": "Web Design Agency Australia | Built to Rank & Convert | Nifty Websites",
     "seoTitle": "Web Design Agency Australia | Built to Rank & Convert | Nifty Websites",
@@ -5624,11 +5624,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-13T00:18:04.939Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-13T00:18:04.939Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T00:22:22.726Z",
+    "updatedBy": "joshua",
+    "isHome": true
   },
   {
     "id": "pg-424",
