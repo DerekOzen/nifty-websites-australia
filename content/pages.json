@@ -5502,10 +5502,10 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-09T00:46:25.227Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-11-09T22:34:17.863Z",
+    "updatedAt": "2026-11-23T05:43:50.992Z",
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/what-is-a-ssl-certificate-ssl-explained--adb37f4a.jpg",
     "featuredImageAlt": "SSL certificate protecting a business website through a secure HTTPS connection."
