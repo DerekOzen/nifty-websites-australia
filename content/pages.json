@@ -5649,5 +5649,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-11-13T00:23:18.891Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-425",
+    "path": "/learn",
+    "type": "page",
+    "title": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
+    "seoTitle": "Learn | Web Design & SEO Guides | Nifty Websites Australia",
+    "seoDescription": "Practical web design, SEO, speed, eCommerce and website maintenance guides for Australian businesses, from Nifty Websites Australia.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-4",
+    "status": "draft",
+    "createdAt": "2026-11-23T22:18:56.025Z",
+    "createdBy": "gabriel",
+    "updatedAt": "2026-11-23T22:18:56.025Z",
+    "updatedBy": "gabriel"
   }
 ]
