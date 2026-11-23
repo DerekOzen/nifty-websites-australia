@@ -5448,13 +5448,14 @@
     "layout": "mockup",
     "headerPartId": null,
     "footerPartId": "footer-4",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-20T03:07:58.965Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-10-20T03:10:45.596Z",
+    "updatedAt": "2026-11-23T22:17:49.684Z",
     "updatedBy": "gabriel",
     "featuredImage": "/uploads/nifty-websites-logo-with-slogan-3-9cd45bce.png",
-    "featuredImageAlt": "Nifty Websites company logo featuring a friendly robot character,"
+    "featuredImageAlt": "Nifty Websites company logo featuring a friendly robot character,",
+    "isHome": false
   },
   {
     "id": "pg-414",
