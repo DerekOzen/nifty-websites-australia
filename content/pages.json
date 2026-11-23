@@ -5660,10 +5660,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-4",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-23T22:18:56.025Z",
     "createdBy": "gabriel",
-    "updatedAt": "2026-11-23T22:18:56.025Z",
+    "updatedAt": "2026-11-23T22:19:47.092Z",
     "updatedBy": "gabriel"
   }
 ]
